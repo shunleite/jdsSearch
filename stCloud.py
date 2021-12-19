@@ -18,7 +18,7 @@ import os
 
 @st.experimental_singleton
 def readJson():
-    u = urlopen("")
+    u = urlopen("https://raw.githubusercontent.com/shunleite/jdsSearch/main/now.json")
     tiku = json.loads(u.read().decode('utf-8'))
     return tiku
 
@@ -32,12 +32,6 @@ def searchContent(data={}, choice=None,content=None):
             questions.append(k)
             answers.append(v)
     return questions,answers
-
-st.set_page_config(page_title='近代史答案Search', menu_items={
-    'Report a bug': "http://10.102.4.220:8033",
-    'About': "# 测试项目,近代史答案"
-})
-
 
 st.set_page_config(page_title='近代史答案Search', menu_items={
     'Report a bug': "http://10.102.4.220:8033",
