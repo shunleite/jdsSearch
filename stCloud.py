@@ -18,7 +18,7 @@ import os
 
 @st.experimental_singleton
 def readJson():
-    u = urlopen("https://raw.githubusercontent.com/shunleite/jdsSearch/main/now.json")
+    u = urlopen("https://cdn.jsdelivr.net/gh/shunleite/jdsSearch@main/now.json")
     tiku = json.loads(u.read().decode('utf-8'))
     return tiku
 

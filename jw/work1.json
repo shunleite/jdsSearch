@@ -1,0 +1,1536 @@
+{
+    "code": 1,
+    "msg": "",
+    "data": {
+        "questions": [
+            {
+                "id": 762619324,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">“三网合一”中的三网是指计算机网络、电话网、电信网。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.1 计算机网络在信息时代中的作用",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 52591249,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">互联网的两个重要特点是连通性与共享。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.1 计算机网络在信息时代中的作用",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1628378098,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">互联网</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">+</span><span style=\"font-size:14px;font-family:宋体\">是指互联网上的创新应用。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.1 计算机网络在信息时代中的作用",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1207740631,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">互联网是相互连通的网络，因此不能对互联网进行严格管理。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.1 计算机网络在信息时代中的作用",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 631914760,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">当今世界上最大的计算机网络是电信网。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.1 计算机网络在信息时代中的作用",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 2073552493,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">因特网起源于（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）网络。</span></p>",
+                "level": "20",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ARPANET</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">Ethernet</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;CATV</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">CERNET</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "中",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.2 互联网概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ARPANET</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">Ethernet</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;CATV</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">CERNET</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1480900430,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">人们把（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）年作为因特网的诞生时间。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">1969</span></p>",
+                    "B": "<p>1983<br/></p>",
+                    "C": "<p>1985</p>",
+                    "D": "<p>1993<br/></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.2 互联网概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">1969</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1983<br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1985</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1993<br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1043486627,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">中国目前最大的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ISP</span><span style=\"font-size:14px;font-family:宋体\">是（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">中国移动</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">中国联通</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">中国电信</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">中国网通</span></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.2 互联网概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">中国移动</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">中国联通</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">中国电信</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">中国网通</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 471854212,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">在互联网的标准化中，负责近期工程技术研究的是( ）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ISO</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IRTF&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IETF&nbsp;</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IAB</span></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.2 互联网概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ISO</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IRTF&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IETF&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IAB</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1926006265,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">所有的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RFC</span><span style=\"font-size:14px;font-family:宋体\">最终都将成为（ ）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">互联网标准</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">历史的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RFC&nbsp; &nbsp; &nbsp;&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">建议标准</span></p>",
+                    "D": "<p>ISO<span style=\"font-family:宋体\">标准</span></p><p><br/></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.2 互联网概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">互联网标准</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">历史的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RFC&nbsp; &nbsp; &nbsp;&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">建议标准</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>ISO<span style=\"font-family:宋体\">标准</span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1354390234,
+                "type": "20",
+                "question": "<p><span style=\";font-family:Calibri;font-size:14px\"><span style=\"font-family:宋体\">客户服务器方式</span></span><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">中使用服务的主机称为服务器。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.3 互联网的组成",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 828896063,
+                "type": "20",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">通信子网中，路由器主要作用是实现相同标准的网络之间互连。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.3 互联网的组成",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 391415824,
+                "type": "20",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">电路交换不一定是面向连接的。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.3 互联网的组成",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1963073909,
+                "type": "20",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">分组交换网可以使用面向连接的服务。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.3 互联网的组成",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1274005078,
+                "type": "20",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">分组交换网中，分组在各结点存储转发时需要排队，这就会造成一定的时延。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.3 互联网的组成",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 702324363,
+                "type": "10",
+                "question": "<p><span style=\"font-family: 宋体; font-size: 14px;\">中国教育和科研计算机网简称为（ &nbsp; &nbsp; &nbsp;</span> <span style=\"font-family: 宋体; font-size: 14px;\">）</span><br/></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\";font-family:宋体;font-size:14px\">CHINANET</span></p><p><br/></p>",
+                    "B": "<p><span style=\";font-family:宋体;font-size:14px\">EDUNET</span></p><p><br/></p>",
+                    "C": "<p><span style=\";font-family:宋体;font-size:14px\">CERNET</span></p><p><br/></p>",
+                    "D": "<p><span style=\";font-family:宋体;font-size:14px\">UNINET</span></p><p><br/></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.4 计算机网络在我国的发展",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">CHINANET</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">EDUNET</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">CERNET</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">UNINET</span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 260716524,
+                "type": "10",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">我国在（</span></span> &nbsp; <span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">）年正式接入互联网，并被国际承认。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\";font-family:宋体;font-size:14px\">1980</span></p><p><br/></p>",
+                    "B": "<p><span style=\";font-family:宋体;font-size:14px\">1989</span></p><p><br/></p>",
+                    "C": "<p><span style=\";font-family:宋体;font-size:14px\">1994</span></p><p><br/></p>",
+                    "D": "<p><span style=\";font-family:宋体;font-size:14px\">1997</span></p><p><br/></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.4 计算机网络在我国的发展",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">1980</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">1989</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">1994</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">1997</span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1819790529,
+                "type": "10",
+                "question": "<p><span style=\"font-family: 宋体; font-size: 14px;\">目前负责中国互联网相关管理工作的机构是（</span> &nbsp; &nbsp;<span style=\"font-family: 宋体; font-size: 14px;\">）。</span><br/></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">工信部</span></span></p><p><br/></p>",
+                    "B": "<p><span style=\";font-family:宋体;font-size:14px\">CNNIC</span></p><p><br/></p>",
+                    "C": "<p><span style=\";font-family:宋体;font-size:14px\">CERNET</span></p><p><br/></p>",
+                    "D": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">邮电部</span></span></p><p><br/></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.4 计算机网络在我国的发展",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">工信部</span></span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">CNNIC</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">CERNET</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">邮电部</span></span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1109746978,
+                "type": "10",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">我国第一个公用分组交换网</span> CNPAC <span style=\"font-family:宋体\">在（&nbsp;</span></span> &nbsp; <span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">）年建成运行。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>1980</p>",
+                    "B": "<p>1989</p>",
+                    "C": "<p>1994</p>",
+                    "D": "<p>1997</p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.4 计算机网络在我国的发展",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>1980</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1989</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1994</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1997</p>"
+                    }
+                ]
+            },
+            {
+                "id": 538065415,
+                "type": "20",
+                "question": "<p><span style=\"font-family: 宋体; font-size: 14px;\">计算机网络定义中出现的</span><span style=\"font-family: 宋体; font-size: 14px;\">“可编程的硬件”，表明这种硬件一定包含有中央处理机 。</span><br/></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.5  计算机网络的类别",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 117429112,
+                "type": "10",
+                "question": "<p><span style=\"font-family: 宋体; font-size: 14px;\">从网络的作用范围进行分类，网络可以分为PAN、<span style=\"font-family:Calibri\">LAN</span>、（</span> &nbsp;<span style=\"font-family: 宋体; font-size: 14px;\">）、WAN。</span><br/></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">城域网</span></span></p><p><br/></p>",
+                    "B": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">广域网</span></span></p><p><br/></p>",
+                    "C": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">局域网</span></span></p><p><br/></p>",
+                    "D": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">个人区域网</span></span></p><p><br/></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.5  计算机网络的类别",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">城域网</span></span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">广域网</span></span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">局域网</span></span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">个人区域网</span></span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1689086045,
+                "type": "20",
+                "question": "<p><span style=\"font-family: 宋体; font-size: 14px;\">接入网本属于互联网的边缘部分。</span><br/></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.5  计算机网络的类别",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 983171262,
+                "type": "10",
+                "question": "<p><span style=\"font-family: 宋体; font-size: 14px;\">从作用范围来分，校园网属于（</span> &nbsp; &nbsp;<span style=\"font-family: 宋体; font-size: 14px;\">）。</span><br/></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\";font-family:宋体;font-size:14px\">LAN</span></p><p><br/></p>",
+                    "B": "<p><span style=\";font-family:宋体;font-size:14px\">MAN</span></p><p><br/></p>",
+                    "C": "<p><span style=\";font-family:宋体;font-size:14px\">WAN</span></p><p><br/></p>",
+                    "D": "<p><span style=\";font-family:宋体;font-size:14px\">PAN</span></p><p><br/></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.5  计算机网络的类别",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">LAN</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">MAN</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">WAN</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">PAN</span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 457693587,
+                "type": "20",
+                "question": "<p><span style=\"font-family: 宋体; font-size: 14px;\">速率往往是指额定速率或标称速率，是实际运行的速率。</span><br/></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.6 计算机网络的性能",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1608652585,
+                "type": "20",
+                "question": "<p><span style=\"font-family: 宋体; font-size: 14px;\">根据排队论的理论，当某信道的利用率增大时，该信道引起的时延也就迅速增加。</span><br/></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.6 计算机网络的性能",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1037020170,
+                "type": "20",
+                "question": "<p><span style=\"font-family: 宋体; font-size: 14px;\">当信道的利用率增大时，该信道引起的时延迅速减少。</span><br/></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.6 计算机网络的性能",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 331171183,
+                "type": "10",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\">ISO<span style=\"font-family:宋体\">提出的网络体系结构是（</span></span> &nbsp;<span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">）。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\";font-family:宋体;font-size:14px\">OSI</span></p><p><br/></p>",
+                    "B": "<p><span style=\";font-family:宋体;font-size:14px\">TCP/IP</span></p><p><br/></p>",
+                    "C": "<p><span style=\";font-family:宋体;font-size:14px\">SNA</span></p><p><br/></p>",
+                    "D": "<p><span style=\";font-family:宋体;font-size:14px\">IEEE</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.7 计算机网络的体系结构",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">OSI</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">TCP/IP</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">SNA</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">IEEE</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1886001728,
+                "type": "10",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">目前互联网上使用的事实上的国际标准是（</span></span> &nbsp;<span style=\";font-family:宋体;font-size:14px\"><span style=\"font-family:宋体\">）。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\";font-family:宋体;font-size:14px\">OSI</span></p><p><br/></p>",
+                    "B": "<p><span style=\";font-family:宋体;font-size:14px\">TCP/IP</span></p><p><br/></p>",
+                    "C": "<p><span style=\";font-family:宋体;font-size:14px\">SNA</span></p><p><br/></p>",
+                    "D": "<p><span style=\";font-family:宋体;font-size:14px\">IEEE</span></p><p><br/></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.7 计算机网络的体系结构",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">OSI</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">TCP/IP</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">SNA</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\";font-family:宋体;font-size:14px\">IEEE</span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1448587941,
+                "type": "20",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\">TCP/IP <span style=\"font-family:宋体\">是三层体系结构。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.7 计算机网络的体系结构",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 872762246,
+                "type": "20",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\">OSI<span style=\"font-family:宋体\">体系结构定义有五层。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.7 计算机网络的体系结构",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 183689467,
+                "type": "20",
+                "question": "<p><span style=\";font-family:宋体;font-size:14px\">TCP/IP<span style=\"font-family:宋体\">在其最下面的网络接口层定义了具体功能。</span></span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第1章/1.7 计算机网络的体系结构",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1572652809,
+                "type": "10",
+                "question": "在我国第一个实现IPv6的网络是（&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;）。",
+                "level": "10",
+                "options": {
+                    "A": "<p>CHINANet</p>",
+                    "B": "<p>EDUNet<br/></p>",
+                    "C": "<p>CERNET2<br/></p>",
+                    "D": "<p>UNINET<br/></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "概述",
+                "from": "概述",
+                "dir": "第1章",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": 0,
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>CHINANet</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>EDUNet<br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>CERNET2<br/></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>UNINET<br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 845782122,
+                "type": "20",
+                "question": "接入网用于将ISP的网络接入互联网。",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "概述",
+                "from": "概述",
+                "dir": "第1章",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 274150735,
+                "type": "20",
+                "question": "往返时间表示从发送方发送数据开始，到发送方收到来自接收方的确认，总共经历的时间。",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "概述",
+                "from": "概述",
+                "dir": "第1章",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1114112057,
+                "type": "10",
+                "question": "<p>互联网起源于（&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ）网络。 &nbsp; &nbsp;</p><p></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>ARPANET &nbsp; &nbsp;</p><p></p>",
+                    "B": "<p>Ethernet &nbsp; &nbsp;</p><p></p>",
+                    "C": "<p>&nbsp;CATV &nbsp; &nbsp;</p><p></p>",
+                    "D": "<p>CERNET &nbsp; &nbsp;</p><p></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "互联网概述",
+                "chapter": "概述",
+                "from": "概述-互联网概述",
+                "dir": "第1章",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>ARPANET &nbsp; &nbsp;</p><p></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>Ethernet &nbsp; &nbsp;</p><p></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>&nbsp;CATV &nbsp; &nbsp;</p><p></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>CERNET &nbsp; &nbsp;</p><p></p>"
+                    }
+                ]
+            }
+        ],
+        "task": {
+            "name": "1",
+            "answer_hint": "1",
+            "allow_view_score": 1,
+            "allow_view_paper": 1,
+            "answer_review": "1",
+            "_type": "10",
+            "type": "测验",
+            "course_title": "2021秋季公开课",
+            "student": "张顺",
+            "dotime": "2021-09-15 19:53:03",
+            "score": "96.00"
+        }
+    }
+}

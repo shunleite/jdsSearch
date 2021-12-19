@@ -1,0 +1,1681 @@
+{
+    "code": 1,
+    "msg": "",
+    "data": {
+        "questions": [
+            {
+                "id": 285924459,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">目前广域网的域名服务器使用递归查询居多。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.1 域名系统DNS",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 2012771660,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">域名</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">www.abc.com</span><span style=\"font-size:14px;font-family:宋体\">在一般情况下属于（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）网站。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">教育</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">政府</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">商业</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">军事</span></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.1 域名系统DNS",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">教育</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">政府</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">商业</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">军事</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1436880289,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在互联网上共有（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）个不同的根域名服务器。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">2</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">5</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">10</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">13</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.1 域名系统DNS",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">2</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">5</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">10</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">13</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 731030146,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">文件传送协议</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">FTP</span><span style=\"font-size:14px;font-family:宋体\">使用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">UDP</span><span style=\"font-size:14px;font-family:宋体\">进行运输服务。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.2 文件传送协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 138443751,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">FTP</span><span style=\"font-size:14px;font-family:宋体\">的服务器进程只有一个主进程，负责所有</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">FTP</span><span style=\"font-size:14px;font-family:宋体\">请求的处理工作。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.2 文件传送协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1848447192,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在现在的网络中应用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">FTP</span><span style=\"font-size:14px;font-family:宋体\">时，由于防火墙的存在，</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">FTP</span><span style=\"font-size:14px;font-family:宋体\">的数据端口将不再使用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">20</span><span style=\"font-size:14px;font-family:宋体\">端口。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.2 文件传送协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1276815677,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">FTP</span><span style=\"font-size:14px;font-family:宋体\">进行控制连接时使用的默认端口号为(&nbsp; &nbsp; )</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">20</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">21</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">80</span></p>",
+                    "D": "<p>443</p><p></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.2 文件传送协议",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">20</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">21</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">80</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>443</p><p></p>"
+                    }
+                ]
+            },
+            {
+                "id": 11921267,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">网络管理是指对网络进行行政上的管理。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.3 简单网络管理协议SNMP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1196446857,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SNMP</span><span style=\"font-size:14px;font-family:宋体\">的网络管理由三个部分组成：</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SNMP</span><span style=\"font-size:14px;font-family:宋体\">、</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SMI</span><span style=\"font-size:14px;font-family:宋体\">与</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MIB</span><span style=\"font-size:14px;font-family:宋体\">。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.3 简单网络管理协议SNMP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 624815594,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SMI</span><span style=\"font-size:14px;font-family:宋体\">的功能之一是在网络上传送的管理数据应如何编码。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.3 简单网络管理协议SNMP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 2078966479,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SNMP</span><span style=\"font-size:14px;font-family:宋体\">协议中的管理程序使用（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）中信息的值对网络进行管理。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SMI&nbsp;&nbsp;</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MIB</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ASN</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ISO</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.3 简单网络管理协议SNMP",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SMI&nbsp;&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MIB</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ASN</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ISO</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1507351328,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">超媒体与超文本都是指包含链接的文本。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.1 万维网WWW",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 477268326,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTML</span><span style=\"font-size:14px;font-family:宋体\">是超文本传送协议的简称。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.1 万维网WWW",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1914711643,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP </span><span style=\"font-size:14px;font-family: 宋体\">是一个应用层协议，它使用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> UDP</span><span style=\"font-size:14px;font-family:宋体\">连接进行传送。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.1 万维网WWW",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 922394513,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）是互联网资源的位置表示形式。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">WWW</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">URL</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">WEB</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.2 统一资源定位符URL",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">WWW</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">URL</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">WEB</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 346567922,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">目前互联网中使用最多的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">URL</span><span style=\"font-size:14px;font-family:宋体\">协议是</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">FTP</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">NEWS</span></p>",
+                    "D": "<p>TELNET</p><p><br/></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.2 统一资源定位符URL",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">FTP</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">NEWS</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>TELNET</p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1788202455,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">URL</span><span style=\"font-size:14px;font-family:宋体\">对其中的字符大写或小写有明确要求。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.2 统一资源定位符URL",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1262707208,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">URL</span><span style=\"font-size:14px;font-family:宋体\">地址</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">http://jwgl.hbeu.cn:8080/hbgcxy</span><span style=\"font-size:14px;font-family:宋体\">表明资源使用的端口不是默认的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP</span><span style=\"font-size:14px;font-family:宋体\">端口。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.2 统一资源定位符URL",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 253612110,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">从层次的角度看，</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP </span><span style=\"font-size:14px;font-family:宋体\">是面向事务的应用层协议。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.3 超文本传送协议HTTP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1842047139,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP</span><span style=\"font-size:14px;font-family:宋体\">协议本身是无连接的，但却使用了面向连接的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> TCP </span><span style=\"font-size:14px;font-family:宋体\">向上提供的服务。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.3 超文本传送协议HTTP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1136132484,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP/1.0 </span><span style=\"font-size:14px;font-family: 宋体\">协议使用了持续连接。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.3 超文本传送协议HTTP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 988654864,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&lt;HEAD&gt; </span><span style=\"font-size:14px;font-family: 宋体\">标签表明这是一个头部的开始。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.4 万维网的文档",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 417022581,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&lt;H1&gt;</span><span style=\"font-size:14px;font-family:宋体\">标签表明这是一个段落的开始。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.4 万维网的文档",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 2122849110,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&lt;/BODY&gt;</span><span style=\"font-size:14px;font-family:宋体\">标签表明主体至此结束。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.4 万维网的文档",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1025722604,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">全文检索搜索引擎并不采集网站的任何信息。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.5 万维网的信息检索系统",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1912440354,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">目前使用量最大的搜索引擎基本都是全文检索搜索引擎。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.5 万维网的信息检索系统",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 172330333,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">博客与曾经流行的个人网站在本质上是相同的。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.6 博客、微博和轻博",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1323367059,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">每条微博的字数一般限制为</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">140</span><span style=\"font-size:14px;font-family:宋体\">字。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.6 博客、微博和轻博",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 751670260,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">轻博客是一种介于博客和微博之间的网络服务，为用户提供生成内容表达自己的平台。</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.4.6 博客、微博和轻博",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1667809546,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">下列协议中，（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）协议是用于发送电子邮件的。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">POP3</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IMAP</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SMTP</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MIME</span></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.5 电子邮件",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">POP3</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IMAP</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SMTP</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MIME</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1096181359,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SMTP</span><span style=\"font-size:14px;font-family:宋体\">协议使用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">连接进行通信。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.5 电子邮件",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 654524224,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">电子邮件首部关键字“</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">CC</span><span style=\"font-size:14px;font-family:宋体\">”表示对方回信所用的地址。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.5 电子邮件",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 99669925,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">用户取电子邮件是通过</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">POP3</span><span style=\"font-size:14px;font-family:宋体\">协议到发件人的邮件服务器上读取。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.5 电子邮件",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1541303430,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MIME</span><span style=\"font-size:14px;font-family:宋体\">协议是取代</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SMTP</span><span style=\"font-size:14px;font-family:宋体\">的新一代邮件协议。（</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.5 电子邮件",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 511236828,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">DHCP</span><span style=\"font-size:14px;font-family:宋体\">的发现报文通过广播方式传输。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.6 动态主机配置协议DHCP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 2082894641,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">DHCP</span><span style=\"font-size:14px;font-family:宋体\">客户获得分配的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址后，将一直使用此</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.6 动态主机配置协议DHCP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1376978962,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">DHCP</span><span style=\"font-size:14px;font-family:宋体\">客户使用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">协议获得</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址服务。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第6章/6.6 动态主机配置协议DHCP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 468179625,
+                "type": "10",
+                "question": "<p>通过（&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; ）协议可以在网络中动态地获得IP地址。</p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>DHCP</p>",
+                    "B": "<p>DNS</p>",
+                    "C": "<p>SMTP</p>",
+                    "D": "<p>IP</p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "应用层",
+                "from": "应用层",
+                "dir": "第6章/6.6 动态主机配置协议DHCP",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>DHCP</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>DNS</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>SMTP</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>IP</p>"
+                    }
+                ]
+            },
+            {
+                "id": 2044031882,
+                "type": "10",
+                "question": "<p>有关网络域名系统的描述中，不正确的是（ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;）。</p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>网络域名系统的缩写为DNS</p>",
+                    "B": "<p>每个域名可以由几个域组成，域与域之间用“.”分开</p>",
+                    "C": "<p>域名中的最左端的域称为顶级域</p>",
+                    "D": "<p>cn是常用的顶级域名代码</p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "应用层",
+                "from": "应用层",
+                "dir": "第6章/6.1 域名系统DNS",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>网络域名系统的缩写为DNS</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>每个域名可以由几个域组成，域与域之间用“.”分开</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>域名中的最左端的域称为顶级域</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>cn是常用的顶级域名代码</p>"
+                    }
+                ]
+            },
+            {
+                "id": 1602357487,
+                "type": "10",
+                "question": "<p>系统对WWW 网页存储的默认格式是( &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;)。</p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>PPT&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+                    "B": "<p>HTML</p>",
+                    "C": "<p>TXT</p>",
+                    "D": "<p>DOC<br/></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "应用层",
+                "from": "应用层",
+                "dir": "第6章/6.4.4 万维网的文档",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>PPT&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>HTML</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>TXT</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>DOC<br/></p>"
+                    }
+                ]
+            }
+        ],
+        "task": {
+            "name": "6",
+            "answer_hint": "1",
+            "allow_view_score": 1,
+            "allow_view_paper": 1,
+            "answer_review": "1",
+            "_type": "10",
+            "type": "测验",
+            "course_title": "2021秋季公开课",
+            "student": "张顺",
+            "dotime": "2021-12-16 13:12:16",
+            "score": "100.00"
+        }
+    }
+}

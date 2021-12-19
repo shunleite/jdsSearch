@@ -1,0 +1,1681 @@
+{
+    "code": 1,
+    "msg": "",
+    "data": {
+        "questions": [
+            {
+                "id": 380533160,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">下列攻击属于被动攻击的是</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">拒绝服务</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">恶意程序</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">篡改</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">截获</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.1 网络安全问题概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">拒绝服务</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">恶意程序</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">篡改</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">截获</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1956322957,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">对付被动攻击可采用各种（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）技术。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">加密</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">认证</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">隧道</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">鉴别</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.1 网络安全问题概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">加密</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">认证</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">隧道</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">鉴别</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1430829038,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">下列目标中，（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）不是一个安全的计算机网络应达到的目标。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">保密性</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">端点鉴别</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">信息的完整性</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">差错控制</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.1 网络安全问题概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">保密性</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">端点鉴别</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">信息的完整性</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">差错控制</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 724978883,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">密码编码学是在未知密钥的情况下从密文推演出明文或密钥的技术。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.1 网络安全问题概述",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 165930276,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">实际应用的密码体制均是计算上安全的密码体制。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.1 网络安全问题概述",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1875950105,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">数据加密标准</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> DES </span><span style=\"font-size:14px;font-family:宋体\">属于非对称密钥密码体制，是一种分组密码。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.2.1 对称密钥密码体制",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1304318842,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">DES</span><span style=\"font-size:14px;font-family:宋体\">实际的密钥长度为</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> 56 </span><span style=\"font-size:14px;font-family:宋体\">位，另外</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> 8 </span><span style=\"font-size:14px;font-family:宋体\">位用于奇偶校验。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.2.1 对称密钥密码体制",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 5800112,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">三重</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> DES</span><span style=\"font-size:14px;font-family:宋体\">使用了三个</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">56</span><span style=\"font-size:14px;font-family:宋体\">位的密码。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.2.1 对称密钥密码体制",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1156841206,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">公钥密码体制使用相同的加密密钥与解密密钥。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.2.2 公钥密码体制",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1501283681,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在公钥密码体制中，如果某一信息用私有密钥加密，那么，它必须用公开密钥解密。（</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.2.2 公钥密码体制",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1059625538,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在公钥密码体制中，如果某一信息用公开密钥加密，则必须用公开密钥解密。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.2.2 公钥密码体制",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 487994023,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">数字签名采用公钥算法更容易实现。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.3 数字签名",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 933116382,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">数字签名必须保证报文的完整性，以防止伪造。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.3 数字签名",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 340516403,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">基于公钥的数字签名的实现中，发送方需要使用对方的公钥对信息进行数字签名。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.3 数字签名",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1782150932,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">数字签名是一种相对简单的对报文进行鉴别的方法。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.4.1 报文鉴别",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1223035977,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在密码学中使用的散列函数一般具有单向性特点。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.4.1 报文鉴别",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1835930336,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">下列算法中，（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）是密码散列函数算法。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MD5&nbsp;</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RSA&nbsp;&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">DES&nbsp;&nbsp;</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IDEA</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.4.1 报文鉴别",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MD5&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RSA&nbsp;&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">DES&nbsp;&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IDEA</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 133568795,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在实体鉴别中，公钥的分配以及认证公钥的真实性也是一个非常重要的问题。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.4.2 实体鉴别",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1705229948,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">不重数</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">(nonce)</span><span style=\"font-size:14px;font-family:宋体\">就是一个不重复使用的大随机数，即“一次一数”。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.4.2 实体鉴别",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 410972082,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">密钥管理包括：密钥的产生、分配、注入、验证和使用。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.5 密钥分配",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 2116781207,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">密钥的产生是密钥管理中最大的问题</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.5 密钥分配",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 851898925,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">目前最出名的密钥分配协议是</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> Kerberos V5</span><span style=\"font-size:14px;font-family:宋体\">。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.5 密钥分配",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 280201998,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">Kerberos </span><span style=\"font-size:14px;font-family: 宋体\">使用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">DES</span><span style=\"font-size:14px;font-family:宋体\">进行加密。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.5 密钥分配",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1464793412,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IPSec</span><span style=\"font-size:14px;font-family:宋体\">中的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">AH</span><span style=\"font-size:14px;font-family:宋体\">协议提供源点鉴别、数据完整性和保密。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.6.1 网络层安全协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1775685631,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">安全关联</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SA</span><span style=\"font-size:14px;font-family:宋体\">是从源点到终点的双向连接。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.6.1 网络层安全协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1334076624,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">运输层广泛使用两个安全协议：</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SSL</span><span style=\"font-size:14px;font-family:宋体\">与</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TLS</span><span style=\"font-size:14px;font-family:宋体\">。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.6.2 运输层安全协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 745618741,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SSL </span><span style=\"font-size:14px;font-family: 宋体\">作用在端系统应用层的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> HTTP </span><span style=\"font-size:14px;font-family:宋体\">和运输层之间，在</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">UDP</span><span style=\"font-size:14px;font-family:宋体\">之上建立起一个安全通道。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.6.2 运输层安全协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1611426635,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">应用层使用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> SSL </span><span style=\"font-size:14px;font-family:宋体\">最多的就是</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> HTTP</span><span style=\"font-size:14px;font-family:宋体\">。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.6.2 运输层安全协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1190724524,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SSL </span><span style=\"font-size:14px;font-family: 宋体\">服务器鉴别是</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SSL</span><span style=\"font-size:14px;font-family:宋体\">提供的安全服务之一。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.6.2 运输层安全协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1530992327,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">PGP</span><span style=\"font-size:14px;font-family:宋体\">中，发送方使用私钥加密的对象是要发送的邮件。<br/></span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.6.3 应用层的安全协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 959360824,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在使用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">PGP</span><span style=\"font-size:14px;font-family:宋体\">过程中，发送方需要使用三个不同的密钥。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.6.3 应用层的安全协议",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 2110332286,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">防火墙的功能就是实现阻止。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.7 系统安全：防火墙与入侵检测",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1404482131,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">防火墙技术中的分组过滤路由器可用于应用层数据的过滤和高层用户鉴别。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.7 系统安全：防火墙与入侵检测",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1950267594,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">大多数部署的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> IDS </span><span style=\"font-size:14px;font-family:宋体\">主要是基于特征的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IDS</span><span style=\"font-size:14px;font-family:宋体\">。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第7章/7.7 系统安全：防火墙与入侵检测",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1233758646,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">以下不是身份认证扩展报头（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">AH</span><span style=\"font-size:14px;font-family:宋体\">）功能的是</span></p>",
+                "level": "20",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">数据源认证</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">数据报的无连接完整性。</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">抗重播保护</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">数据机密性。</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "中",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "网络安全",
+                "from": "网络安全",
+                "dir": "第7章/7.6.1 网络层安全协议",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据源认证</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据报的无连接完整性。</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">抗重播保护</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据机密性。</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1013948864,
+                "type": "10",
+                "question": "<p>攻击者截获并记录了从A到B的数据，然后又从早些时候所截获的数据中提取出信息重新发往B称为（ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ）。</p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>中间人攻击</p>",
+                    "B": "<p>口令猜测器和字典攻击</p>",
+                    "C": "<p>强力攻击</p>",
+                    "D": "<p>重放攻击</p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "网络安全",
+                "from": "网络安全",
+                "dir": "第7章/7.1 网络安全问题概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>中间人攻击</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>口令猜测器和字典攻击</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>强力攻击</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>重放攻击</p>"
+                    }
+                ]
+            },
+            {
+                "id": 308102693,
+                "type": "10",
+                "question": "<p>DES是一种block（块）密文的加密算法，是把数据加密成（ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;）块</p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>32</p>",
+                    "B": "<p>48</p>",
+                    "C": "<p>56</p>",
+                    "D": "<p>64</p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "网络安全",
+                "from": "网络安全",
+                "dir": "第7章/7.2.1 对称密钥密码体制",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>32</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>48</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>56</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>64</p>"
+                    }
+                ]
+            },
+            {
+                "id": 1879711494,
+                "type": "10",
+                "question": "<p>加密和签名的典型区别是（ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ）。</p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>加密是用对方的公钥，签名是用自己的私钥</p>",
+                    "B": "<p>加密是用自己的公钥，签名是用自己的私钥</p>",
+                    "C": "<p>加密是用对方的公钥，签名是用对方的私钥</p>",
+                    "D": "<p>加密是用自己的公钥，签名是用对方的私钥</p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "网络安全",
+                "from": "网络安全",
+                "dir": "第7章/7.3 数字签名",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>加密是用对方的公钥，签名是用自己的私钥</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>加密是用自己的公钥，签名是用自己的私钥</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>加密是用对方的公钥，签名是用对方的私钥</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>加密是用自己的公钥，签名是用对方的私钥</p>"
+                    }
+                ]
+            },
+            {
+                "id": 1459074171,
+                "type": "10",
+                "question": "<p>关于加密技术，下列错误的是（ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ）。</p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>对称密码体制中加密算法和解密算法是保密的</p>",
+                    "B": "<p>密码分析的目的就是千方百计地寻找密钥或明文</p>",
+                    "C": "<p>对称密码体制的加密密钥和解密密钥是相同的</p>",
+                    "D": "<p>所有的密钥都有生存周期</p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "网络安全",
+                "from": "网络安全",
+                "dir": "第7章/7.2.1 对称密钥密码体制",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>对称密码体制中加密算法和解密算法是保密的</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>密码分析的目的就是千方百计地寻找密钥或明文</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>对称密码体制的加密密钥和解密密钥是相同的</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>所有的密钥都有生存周期</p>"
+                    }
+                ]
+            },
+            {
+                "id": 883248476,
+                "type": "10",
+                "question": "<p>CA认证中心的主要作用是（ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ）。</p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>加密数据</p>",
+                    "B": "<p>发放数字证书</p>",
+                    "C": "<p>安全管理</p>",
+                    "D": "<p>解密数据</p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "网络安全",
+                "from": "网络安全",
+                "dir": "第7章/7.5 密钥分配",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>加密数据</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>发放数字证书</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>安全管理</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>解密数据</p>"
+                    }
+                ]
+            }
+        ],
+        "task": {
+            "name": "7",
+            "answer_hint": "1",
+            "allow_view_score": 1,
+            "allow_view_paper": 1,
+            "answer_review": "1",
+            "_type": "10",
+            "type": "测验",
+            "course_title": "2021秋季公开课",
+            "student": "张顺",
+            "dotime": "2021-12-16 19:00:20",
+            "score": "100.00"
+        }
+    }
+}

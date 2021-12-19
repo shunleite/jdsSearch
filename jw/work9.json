@@ -1,0 +1,525 @@
+{
+	"code": 1,
+	"msg": "",
+	"data": {
+		"questions": [{
+			"id": 368015472,
+			"type": "10",
+			"question": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IPv6<\/span><span style=\"font-size:14px;font-family:宋体\">数据单元由固定首部（<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">Base Header<\/span><span style=\"font-size:14px;font-family:宋体\">）和有效载荷（<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">Playload<\/span><span style=\"font-size:14px;font-family:宋体\">）组成，固定首部的长度为（<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp; &nbsp;<\/span><span style=\"font-size:14px;font-family:宋体\">）字节。<\/span><\/p>",
+			"level": "10",
+			"options": {
+				"A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">12<\/span><\/p>",
+				"B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;8&nbsp;<\/span><\/p>",
+				"C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">20&nbsp;&nbsp;<\/span><\/p>",
+				"D": "<p>40<\/p><p><\/p>"
+			},
+			"answer": ["D"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "单选题",
+			"section": "",
+			"chapter": "下一代因特网",
+			"from": "下一代因特网",
+			"dir": "第9章\/9.1.1  IPV4的介绍与地址短缺",
+			"score": "10.00",
+			"corrector_id": -1,
+			"grade_score": "10.00",
+			"memo": "",
+			"student_answer": ["D"],
+			"options_app": [{
+				"key": "A",
+				"value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">12<\/span><\/p>"
+			}, {
+				"key": "B",
+				"value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;8&nbsp;<\/span><\/p>"
+			}, {
+				"key": "C",
+				"value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">20&nbsp;&nbsp;<\/span><\/p>"
+			}, {
+				"key": "D",
+				"value": "<p>40<\/p><p><\/p>"
+			}]
+		}, {
+			"id": 1809584469,
+			"type": "10",
+			"question": "<p><br\/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IPv6<\/span><span style=\"font-size:14px;font-family:宋体\">没有给（<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> &nbsp;&nbsp;&nbsp;<\/span><span style=\"font-size:14px;font-family:宋体\">）单独分配地址空间，而是与单播地址共用同一地址范围。<\/span><\/p>",
+			"level": "10",
+			"options": {
+				"A": "<p><span style=\"font-size:14px;font-family:宋体\">多播地址<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;<\/span><\/p>",
+				"B": "<p><span style=\"font-size:14px;font-family:宋体\">任播地址<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;<\/span><\/p>",
+				"C": "<p><span style=\"font-size:14px;font-family:宋体\">广播地址<\/span><\/p>",
+				"D": "<p><span style=\"font-size:14px;font-family:宋体\">不确定<\/span><\/p>"
+			},
+			"answer": ["B"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "单选题",
+			"section": "",
+			"chapter": "",
+			"from": "",
+			"dir": "第9章\/9.1.1  IPV4的介绍与地址短缺",
+			"score": "10.00",
+			"corrector_id": -1,
+			"grade_score": "10.00",
+			"memo": "",
+			"student_answer": ["B"],
+			"options_app": [{
+				"key": "A",
+				"value": "<p><span style=\"font-size:14px;font-family:宋体\">多播地址<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;<\/span><\/p>"
+			}, {
+				"key": "B",
+				"value": "<p><span style=\"font-size:14px;font-family:宋体\">任播地址<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;<\/span><\/p>"
+			}, {
+				"key": "C",
+				"value": "<p><span style=\"font-size:14px;font-family:宋体\">广播地址<\/span><\/p>"
+			}, {
+				"key": "D",
+				"value": "<p><span style=\"font-size:14px;font-family:宋体\">不确定<\/span><\/p>"
+			}]
+		}, {
+			"id": 779570923,
+			"type": "10",
+			"question": "<p><br\/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MPLS<\/span><span style=\"font-size:14px;font-family:宋体\">网络中负责对进入分组进行转发等价类划分的是<\/span><\/p>",
+			"level": "10",
+			"options": {
+				"A": "<p><span style=\"font-size:14px;font-family:宋体\">边缘交换路由器<\/span><\/p>",
+				"B": "<p><span style=\"font-size:14px;font-family:宋体\">标记交换路由器<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;<\/span><\/p>",
+				"C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ATM<\/span><span style=\"font-size:14px;font-family:宋体\">交换机<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp; &nbsp;<\/span><\/p>",
+				"D": "<p><span style=\"font-family:宋体\">无限多路路由器<\/span><\/p><p><br\/><\/p>"
+			},
+			"answer": ["A"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "单选题",
+			"section": "",
+			"chapter": "",
+			"from": "",
+			"dir": "第9章\/9.2  MPLS交换及应用",
+			"score": "10.00",
+			"corrector_id": -1,
+			"grade_score": "10.00",
+			"memo": "",
+			"student_answer": ["A"],
+			"options_app": [{
+				"key": "A",
+				"value": "<p><span style=\"font-size:14px;font-family:宋体\">边缘交换路由器<\/span><\/p>"
+			}, {
+				"key": "B",
+				"value": "<p><span style=\"font-size:14px;font-family:宋体\">标记交换路由器<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;<\/span><\/p>"
+			}, {
+				"key": "C",
+				"value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ATM<\/span><span style=\"font-size:14px;font-family:宋体\">交换机<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp; &nbsp;<\/span><\/p>"
+			}, {
+				"key": "D",
+				"value": "<p><span style=\"font-family:宋体\">无限多路路由器<\/span><\/p><p><br\/><\/p>"
+			}]
+		}, {
+			"id": 203745228,
+			"type": "10",
+			"question": "<p><br\/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MPLS<\/span><span style=\"font-size:14px;font-family:宋体\">的标记分配和分发主要有以下哪些方式<\/span><\/p>",
+			"level": "10",
+			"options": {
+				"A": "<p><span style=\"font-size:14px;font-family:宋体\">保守自主方式<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;<\/span><\/p>",
+				"B": "<p><span style=\"font-size:14px;font-family:宋体\">下游按需方式<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;<\/span><\/p>",
+				"C": "<p><span style=\"font-size:14px;font-family:宋体\">自由保存方式<\/span><\/p>",
+				"D": "<p><span style=\"font-size:14px;font-family:宋体\">保守保存方式<\/span><\/p>"
+			},
+			"answer": ["B"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "单选题",
+			"section": "",
+			"chapter": "",
+			"from": "",
+			"dir": "第9章\/9.2  MPLS交换及应用",
+			"score": "10.00",
+			"corrector_id": -1,
+			"grade_score": "10.00",
+			"memo": "",
+			"student_answer": ["B"],
+			"options_app": [{
+				"key": "A",
+				"value": "<p><span style=\"font-size:14px;font-family:宋体\">保守自主方式<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;<\/span><\/p>"
+			}, {
+				"key": "B",
+				"value": "<p><span style=\"font-size:14px;font-family:宋体\">下游按需方式<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;<\/span><\/p>"
+			}, {
+				"key": "C",
+				"value": "<p><span style=\"font-size:14px;font-family:宋体\">自由保存方式<\/span><\/p>"
+			}, {
+				"key": "D",
+				"value": "<p><span style=\"font-size:14px;font-family:宋体\">保守保存方式<\/span><\/p>"
+			}]
+		}, {
+			"id": 1090475266,
+			"type": "20",
+			"question": "<p><br\/><\/p><p>MPLS<span style=\"font-family:宋体\">使用标记交换（<\/span>Label&nbsp;Switching<span style=\"font-family:宋体\">），网络路由器只需要判别标记后即可进行转送处理。<\/span><\/p><p><br\/><\/p>",
+			"level": "10",
+			"options": {
+				"A": "正确",
+				"B": "错误"
+			},
+			"answer": ["A"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "判断题",
+			"section": "",
+			"chapter": "",
+			"from": "",
+			"dir": "第9章\/9.2  MPLS交换及应用",
+			"score": "5.00",
+			"corrector_id": -1,
+			"grade_score": "5.00",
+			"memo": "",
+			"student_answer": ["A"],
+			"options_app": [{
+				"key": "A",
+				"value": "正确"
+			}, {
+				"key": "B",
+				"value": "错误"
+			}]
+		}, {
+			"id": 648866407,
+			"type": "20",
+			"question": "<p><br\/><span style=\"font-size:14px;font-family:宋体\">应用<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MPLS<\/span><span style=\"font-size:14px;font-family:宋体\">的数据包，不仅要在<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">OSI<\/span><span style=\"font-size:14px;font-family:宋体\">第二层（数据链结层）执行硬件式交换，还需完成第三层（网络层）软件式路由。<\/span><\/p>",
+			"level": "10",
+			"options": {
+				"A": "正确",
+				"B": "错误"
+			},
+			"answer": ["B"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "判断题",
+			"section": "",
+			"chapter": "",
+			"from": "",
+			"dir": "第9章\/9.2  MPLS交换及应用",
+			"score": "5.00",
+			"corrector_id": -1,
+			"grade_score": "5.00",
+			"memo": "",
+			"student_answer": ["B"],
+			"options_app": [{
+				"key": "A",
+				"value": "正确"
+			}, {
+				"key": "B",
+				"value": "错误"
+			}]
+		}, {
+			"id": 77169496,
+			"type": "20",
+			"question": "<p><br\/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">P2P<\/span><span style=\"font-size:14px;font-family:宋体\">网络通过直接交换来共享资源和服务、采用非集中式，各结点地位平等，兼作服务器和客户机。<\/span><\/p>",
+			"level": "10",
+			"options": {
+				"A": "正确",
+				"B": "错误"
+			},
+			"answer": ["A"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "判断题",
+			"section": "",
+			"chapter": "",
+			"from": "",
+			"dir": "第9章\/9.3 P2P技术及应用",
+			"score": "5.00",
+			"corrector_id": -1,
+			"grade_score": "5.00",
+			"memo": "",
+			"student_answer": ["A"],
+			"options_app": [{
+				"key": "A",
+				"value": "正确"
+			}, {
+				"key": "B",
+				"value": "错误"
+			}]
+		}, {
+			"id": 993325214,
+			"type": "20",
+			"question": "<p><br\/><span style=\"font-size:14px;font-family:宋体\">分布式非结构化拓扑结构的<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">P2P<\/span><span style=\"font-size:14px;font-family:宋体\">网络：以<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">Gnutella<\/span><span style=\"font-size:14px;font-family:宋体\">等为代表，有中心服务器，只保留索引信息，都是对等点，扩展性差；<\/span><\/p>",
+			"level": "10",
+			"options": {
+				"A": "正确",
+				"B": "错误"
+			},
+			"answer": ["B"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "判断题",
+			"section": "",
+			"chapter": "",
+			"from": "",
+			"dir": "第9章\/9.3 P2P技术及应用",
+			"score": "5.00",
+			"corrector_id": -1,
+			"grade_score": "5.00",
+			"memo": "",
+			"student_answer": ["B"],
+			"options_app": [{
+				"key": "A",
+				"value": "正确"
+			}, {
+				"key": "B",
+				"value": "错误"
+			}]
+		}, {
+			"id": 434211315,
+			"type": "20",
+			"question": "<p><br\/><span style=\"font-size:14px;font-family:宋体\">分布式结构化拓扑结构的<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">P2P<\/span><span style=\"font-size:14px;font-family:宋体\">网络：以<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">Pastry<\/span><span style=\"font-size:14px;font-family:宋体\">等为代表，基于分布式散列表（<\/span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">DHT<\/span><span style=\"font-size:14px;font-family:宋体\">）的分布式发现和路由算法；<\/span><\/p>",
+			"level": "10",
+			"options": {
+				"A": "正确",
+				"B": "错误"
+			},
+			"answer": ["A"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "判断题",
+			"section": "",
+			"chapter": "",
+			"from": "",
+			"dir": "第9章\/9.3 P2P技术及应用",
+			"score": "5.00",
+			"corrector_id": -1,
+			"grade_score": "5.00",
+			"memo": "",
+			"student_answer": ["A"],
+			"options_app": [{
+				"key": "A",
+				"value": "正确"
+			}, {
+				"key": "B",
+				"value": "错误"
+			}]
+		}, {
+			"id": 237643938,
+			"type": "20",
+			"question": "<p>IPv6数据报中的&quot;下一个首部&quot;字段相当于 IPv4 的协议字段或可选字段。&nbsp;<\/p><p><br\/><\/p>",
+			"level": "10",
+			"options": {
+				"A": "正确",
+				"B": "错误"
+			},
+			"answer": ["A"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "判断题",
+			"section": "",
+			"chapter": "下一代因特网",
+			"from": "下一代因特网",
+			"dir": "第9章\/9.1.2 IPV6介绍与基本特点",
+			"score": "5.00",
+			"corrector_id": -1,
+			"grade_score": "5.00",
+			"memo": "",
+			"student_answer": ["A"],
+			"options_app": [{
+				"key": "A",
+				"value": "正确"
+			}, {
+				"key": "B",
+				"value": "错误"
+			}]
+		}, {
+			"id": 1813496199,
+			"type": "20",
+			"question": "IPv6中的，当路由器发现”跳数限制“字段的值为零时，就要将此数据报丢弃。",
+			"level": "10",
+			"options": {
+				"A": "正确",
+				"B": "错误"
+			},
+			"answer": ["A"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "判断题",
+			"section": "",
+			"chapter": "下一代因特网",
+			"from": "下一代因特网",
+			"dir": "第9章\/9.1.2 IPV6介绍与基本特点",
+			"score": "5.00",
+			"corrector_id": -1,
+			"grade_score": "5.00",
+			"memo": "",
+			"student_answer": ["A"],
+			"options_app": [{
+				"key": "A",
+				"value": "正确"
+			}, {
+				"key": "B",
+				"value": "错误"
+			}]
+		}, {
+			"id": 1120233208,
+			"type": "20",
+			"question": "IPv6 把原来 IPv4 首部中选项的功能都放在基本首部中。",
+			"level": "10",
+			"options": {
+				"A": "正确",
+				"B": "错误"
+			},
+			"answer": ["B"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "判断题",
+			"section": "",
+			"chapter": "下一代因特网",
+			"from": "下一代因特网",
+			"dir": "第9章\/9.1.3 从IPV4过渡到IPV6的技术应用",
+			"score": "5.00",
+			"corrector_id": -1,
+			"grade_score": "5.00",
+			"memo": "",
+			"student_answer": ["B"],
+			"options_app": [{
+				"key": "A",
+				"value": "正确"
+			}, {
+				"key": "B",
+				"value": "错误"
+			}]
+		}, {
+			"id": 548552669,
+			"type": "20",
+			"question": "IPv6数据报途中经过的路由器都不处理扩展首部。",
+			"level": "10",
+			"options": {
+				"A": "正确",
+				"B": "错误"
+			},
+			"answer": ["B"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "判断题",
+			"section": "",
+			"chapter": "下一代因特网",
+			"from": "下一代因特网",
+			"dir": "第9章\/9.1.3 从IPV4过渡到IPV6的技术应用",
+			"score": "5.00",
+			"corrector_id": -1,
+			"grade_score": "5.00",
+			"memo": "",
+			"student_answer": ["B"],
+			"options_app": [{
+				"key": "A",
+				"value": "正确"
+			}, {
+				"key": "B",
+				"value": "错误"
+			}]
+		}, {
+			"id": 111137854,
+			"type": "10",
+			"question": "<p>在 RFC 2460 中定义了六种IPv6的扩展首部，下列不是其定义的是（&nbsp; &nbsp; &nbsp; ）。<\/p><p><br\/><\/p>",
+			"level": "10",
+			"options": {
+				"A": "<p style=\"white-space: normal;\">&nbsp;逐跳选项&nbsp;<\/p>",
+				"B": "<p style=\"white-space: normal;\">路由选择&nbsp;<\/p>",
+				"C": "<p style=\"white-space: normal;\">封装安全有效载荷&nbsp;<\/p><p><br\/><\/p>",
+				"D": "<p>源站选项<\/p>"
+			},
+			"answer": ["D"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "单选题",
+			"section": "",
+			"chapter": "下一代因特网",
+			"from": "下一代因特网",
+			"dir": "第9章\/9.1.3 从IPV4过渡到IPV6的技术应用",
+			"score": "10.00",
+			"corrector_id": -1,
+			"grade_score": "10.00",
+			"memo": "",
+			"student_answer": ["D"],
+			"options_app": [{
+				"key": "A",
+				"value": "<p style=\"white-space: normal;\">&nbsp;逐跳选项&nbsp;<\/p>"
+			}, {
+				"key": "B",
+				"value": "<p style=\"white-space: normal;\">路由选择&nbsp;<\/p>"
+			}, {
+				"key": "C",
+				"value": "<p style=\"white-space: normal;\">封装安全有效载荷&nbsp;<\/p><p><br\/><\/p>"
+			}, {
+				"key": "D",
+				"value": "<p>源站选项<\/p>"
+			}]
+		}, {
+			"id": 1161429620,
+			"type": "20",
+			"question": "<p>IPv6的六种扩展首部在RFC 1918文档中定义。<\/p>",
+			"level": "10",
+			"options": {
+				"A": "正确",
+				"B": "错误"
+			},
+			"answer": ["B"],
+			"tips": "",
+			"parent": 1163945558,
+			"is_subjective": 0,
+			"level_text": "易",
+			"type_text": "判断题",
+			"section": "",
+			"chapter": "下一代因特网",
+			"from": "下一代因特网",
+			"dir": "第9章\/9.1.3 从IPV4过渡到IPV6的技术应用",
+			"score": "5.00",
+			"corrector_id": -1,
+			"grade_score": "5.00",
+			"memo": "",
+			"student_answer": ["B"],
+			"options_app": [{
+				"key": "A",
+				"value": "正确"
+			}, {
+				"key": "B",
+				"value": "错误"
+			}]
+		}],
+		"task": {
+			"name": "9",
+			"answer_hint": "1",
+			"allow_view_score": 1,
+			"allow_view_paper": 1,
+			"answer_review": "1",
+			"_type": "10",
+			"type": "测验",
+			"course_title": "2021秋季公开课",
+			"student": "张顺",
+			"dotime": "2021-12-16 19:09:36",
+			"score": "100.00"
+		}
+	}
+}
