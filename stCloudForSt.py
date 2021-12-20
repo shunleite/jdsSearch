@@ -170,7 +170,7 @@ if __name__ == "__main__":
         searchContent = st.text_input(label=f"⏳ Search ^v^~",value='IP 协议',autocomplete="IP")
 
     with col5:
-        st.write(' 🐱‍🏍‍')
+        st.write('   ‍')
 
         if st.button('Search'):
             isClick = True
