@@ -25,24 +25,32 @@ def getFileOrDirPath(name):
 @st.cache
 def readJsonJw(count='1'):
     # for item in os.listdir(getFileOrDirPath("jw")):
+    choice_selectbox = {0: 'A',1: 'B', 2 :'C', 3: 'D' }
     s = {}
-    u = urlopen("https://cdn.jsdelivr.net/gh/shunleite/jdsSearch@main/jw/work" + count + ".json")
+    url = "https://cdn.jsdelivr.net/gh/shunleite/jdsSearch@main/jw/" + ("work" if random.randint(0,1)==0 else "exam") + count + ".json"
+    u = urlopen(url)
     s = json.loads(u.read().decode('utf-8'))
     random.shuffle(s.get("data", {}).get("questions", []))
-    # for item in s.get("data",{}).get("questions",[]):
-    #     print(BeautifulSoup(item.get("question"),'lxml').text)
-    # os.getcwd()
+    for item in s.get("data",{}).get("questions",[]):
+        # print(BeautifulSoup(item.get("question"),'lxml').text)
+        if item.get("type_text") == '单选题':
+            realAnwser = item.get('options')[item.get('answer')[0]]
+            temp = list(item.get('options').values())
+            random.shuffle(temp)
+            item.get('answer').pop()
+            item.get('answer').append(choice_selectbox[temp.index(realAnwser)])
+            for i in choice_selectbox.keys():
+                item.get('options')[choice_selectbox[i]] = temp[i]
     return s
 
 
 def generateQuestion(data: dict, num=1, place=None):
-    print(num + 1)
+    # print(num + 1)
     if num < 1:
         num = 1
     i = 1
     for item in data.get("data", {}).get("questions", []):
         if i == num:
-            print('form' + str(i))
             with st.form(key='form' + str(i)):
                 st.write(item.get("question"), unsafe_allow_html=True)
                 slider_val = st.slider("题")
@@ -92,7 +100,7 @@ if __name__ == "__main__":
     if choice_selectbox == "计算机网络":
         add_selectbox = st.sidebar.selectbox(
             "请选择复习的章节",
-            ("第{0}章".format(i) for i in range(1, 10))
+            ("第{0}章".format(i) for i in range(1, 10)),index=3
         )
     data = readJsonJw(count=''.join(filter(str.isdigit, add_selectbox)))
     if 'pageNum' not in st.session_state:
@@ -122,7 +130,6 @@ if __name__ == "__main__":
     i = 1
     for item in data.get("data", {}).get("questions", []):
         if i == st.session_state['pageNum']:
-            print('form' + str(i))
             answer = None
             with st.form(key='form' + str(i)):
                 if item.get("type_text") == '判断题':
@@ -155,7 +162,7 @@ if __name__ == "__main__":
                     st.session_state['answerStatus'] = 0
             break
         i = i + 1
-    print("内容:", st.session_state['answerStatus'])
+    # print("内容:", st.session_state['answerStatus'])
     if st.session_state['answerStatus'] == 1 and submit:
         st.success("答案正确")
     elif st.session_state['answerStatus'] == 0 and submit:
@@ -167,7 +174,7 @@ if __name__ == "__main__":
     col4,col5 = st.columns(2)
 
     with col4:
-        searchContent = st.text_input(label=f"⏳ Search ^v^~",value='IP 协议',autocomplete="IP")
+        searchContent = st.text_input(label=f"⏳ Search ^v^~",value='IP 协议',help="查询字符串之间使用\"空格\"可以过滤查询到的数据")
 
     with col5:
         st.write('   ‍')

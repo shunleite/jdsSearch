@@ -1,0 +1,2561 @@
+{
+    "code": 1,
+    "msg": "",
+    "data": {
+        "questions": [
+            {
+                "id": 1141111893,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">采用数据报服务的设计思路的好处是网络的造价大大降低，运行方式灵活，能够适应多种应用。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.1 网络层提供的两种服务",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1586217676,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">目前互联网使用较为广泛的是虚电路服务。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.1 网络层提供的两种服务",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1064868641,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">转发器是（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）层设备。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">物理</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">数据链路</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">网络</span></p>",
+                    "D": "<p><span style=\"font-family:宋体\">传输</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.1 虚拟互连网络",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">物理</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据链路</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">网络</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-family:宋体\">传输</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p></p>"
+                    }
+                ]
+            },
+            {
+                "id": 489041922,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">下列协议属于网际层的是（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ICMP</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">CSMA/CD&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP&nbsp;&nbsp;</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.1 虚拟互连网络",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ICMP</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">CSMA/CD&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP&nbsp;&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HTTP</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1930676583,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">使用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> IP </span><span style=\"font-size:14px;font-family:宋体\">协议的虚拟互连网络可简称为</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> IP </span><span style=\"font-size:14px;font-family:宋体\">网。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.1 虚拟互连网络",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1371631192,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">网络互连都是指用集线器进行网络互连和路由选择。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.1 虚拟互连网络",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 934151869,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在目前的网络应用中，网关一般是指路由器端口的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.1 虚拟互连网络",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 362536862,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP </span><span style=\"font-size:14px;font-family:宋体\">地址的编址方法有（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）种。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">2</span></p>",
+                    "B": "<p>3</p>",
+                    "C": "<p>4</p>",
+                    "D": "<p>5</p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.2 分类的 IP 地址",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">2</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>3</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>4</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>5</p>"
+                    }
+                ]
+            },
+            {
+                "id": 1783198963,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">211.85.1.122</span><span style=\"font-size:14px;font-family:宋体\">属于（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）类</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>A</p>",
+                    "B": "<p>B</p>",
+                    "C": "<p>C</p>",
+                    "D": "<p>D</p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "网络层",
+                "from": "网络层",
+                "dir": "第4章/4.2.2 分类的 IP 地址",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>A</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>B</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>C</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>D</p>"
+                    }
+                ]
+            },
+            {
+                "id": 1211502036,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址表示合法的是（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">256.123.9.1</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">0.127.1.0&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">192.168.40.100&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">200.3.6</span></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.2 分类的 IP 地址",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">256.123.9.1</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">0.127.1.0&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">192.168.40.100&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">200.3.6</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 786670089,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在同一个局域网上的主机或路由器的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP </span><span style=\"font-size:14px;font-family:宋体\">地址中的网络号必须是一样的。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.2 分类的 IP 地址",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1656623183,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址是数据链路层和物理层使用的地址。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.3 IP 地址与硬件地址",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1131128992,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP </span><span style=\"font-size:14px;font-family:宋体\">地址是网络层和以上各层使用的地址，是一种逻辑地址。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.3 IP 地址与硬件地址",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 559497605,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">最常见的硬件地址是</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IEEE</span><span style=\"font-size:14px;font-family:宋体\">定义的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">MAC</span><span style=\"font-size:14px;font-family:宋体\">地址。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.3 IP 地址与硬件地址",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 117892838,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">路由器只根据目的站的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> MAC</span><span style=\"font-size:14px;font-family:宋体\">地址的网络号进行路由选择。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.3 IP 地址与硬件地址",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1000428604,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ARP</span><span style=\"font-size:14px;font-family:宋体\">的作用是从网络层使用的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> IP </span><span style=\"font-size:14px;font-family:宋体\">地址，解析出在数据链路层使用的硬件地址。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.4 地址解析协议 ARP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 428797201,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ARP </span><span style=\"font-size:14px;font-family: 宋体\">请求分组使用单播帧。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.4 地址解析协议 ARP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 2122023538,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ARP </span><span style=\"font-size:14px;font-family: 宋体\">响应分组使用广播帧。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.4 地址解析协议 ARP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 840364936,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ARP</span><span style=\"font-size:14px;font-family:宋体\">由</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ICMP</span><span style=\"font-size:14px;font-family:宋体\">协议直接调用，属于自动协议。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.4 地址解析协议 ARP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 281250029,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">一个</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> IP </span><span style=\"font-size:14px;font-family:宋体\">数据报由</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">20</span><span style=\"font-size:14px;font-family:宋体\">个字节的首部及可变长度的数据部分组成。。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.5 IP 数据报的格式",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 894148356,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">数据报的最大长度为</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> 65535 </span><span style=\"font-size:14px;font-family:宋体\">字节。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.5 IP 数据报的格式",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 188298361,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">只有当</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> IP</span><span style=\"font-size:14px;font-family:宋体\">分组首部中的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">DF</span><span style=\"font-size:14px;font-family:宋体\">位为</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">1 </span><span style=\"font-size:14px;font-family:宋体\">时才允许分片。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.5 IP 数据报的格式",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1776733530,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">采用默认路由可使网络管理人员能更方便地控制网络和测试网络。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.6 IP 层转发分组的流程",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1339319743,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">路由器采用默认路由可以减少路由表所占用的空间和搜索路由表所用的时间。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.6 IP 层转发分组的流程",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 40817653,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">分组中可以使用“下一跳”字段指明转发的路径。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.2.6 IP 层转发分组的流程",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1485903778,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP </span><span style=\"font-size:14px;font-family:宋体\">地址是</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> 141.14.72.24</span><span style=\"font-size:14px;font-family:宋体\">，子网掩码是</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> 255.255.192.0</span><span style=\"font-size: 14px;font-family:宋体\">，其网络地址为（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">141.14.64.0</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">141.14.52.0</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">141.14.32.0</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">141.14.128.0</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.3.1 划分子网",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">141.14.64.0</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">141.14.52.0</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">141.14.32.0</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">141.14.128.0</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 964603015,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">B</span><span style=\"font-size:14px;font-family:宋体\">类</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址默认的子网掩码为（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.0.0.0&nbsp;</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.255.0.0</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.255.255.0&nbsp;</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.255.255.255&nbsp; &nbsp; &nbsp;</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.3.1 划分子网",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.0.0.0&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.255.0.0</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.255.255.0&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.255.255.255&nbsp; &nbsp; &nbsp;</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 522995192,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">在划分子网的情况下，从</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> IP </span><span style=\"font-size:14px;font-family:宋体\">地址能唯一地得出网络地址来。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.3.2 使用子网时分组的转发",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1405530942,
+                "type": "20",
+                "question": "<p><br/></p><p><span style=\"font-family:宋体\">网络地址可以由</span>IP<span style=\"font-family:宋体\">地址与子网掩码进行逻辑或运算得到。（</span> <span style=\"font-family: 宋体\">）</span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.3.2 使用子网时分组的转发",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 833898515,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">某主机在发送</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">分组时，需要首先使用（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）的子网掩码计算目标</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址对应的网络地址。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">目的主机</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">本机</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">路由器</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">交换机</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.3.2 使用子网时分组的转发",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">目的主机</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">本机</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">路由器</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">交换机</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1245470346,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">CIDR</span><span style=\"font-size:14px;font-family:宋体\">仍然沿用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址的类别。（</span> <span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.3.3 无分类编址 CIDR",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1820599589,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">CIDR</span><span style=\"font-size:14px;font-family:宋体\">记法中，</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">10/10</span><span style=\"font-size:14px;font-family:宋体\">表示的掩码为（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.0.0.0&nbsp;</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.192.0.0</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.255.0.0</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.255.255.0&nbsp;</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.3.3 无分类编址 CIDR",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.0.0.0&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.192.0.0</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.255.0.0</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255.255.255.0&nbsp;</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1299315206,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">理想的路由选择算法在实际应用中是不存在的。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.1 有关路由选择协议的几个基本概念",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 593400699,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">自适应路由选择的特点是简单和开销较小。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.1 有关路由选择协议的几个基本概念",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 17573980,
+                "type": "10",
+                "question": "<p><br/></p><p><span style=\"font-family:宋体\">互联网有两大类路由选择协议：</span>IGP<span style=\"font-family:宋体\">与（</span>&nbsp;&nbsp;&nbsp; <span style=\"font-family:宋体\">）</span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">EGP</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RIP</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">OSPF</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ARP&nbsp;&nbsp;</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.1 有关路由选择协议的几个基本概念",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">EGP</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RIP</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">OSPF</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ARP&nbsp;&nbsp;</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1168546194,
+                "type": "10",
+                "question": "<p><br/></p><p><span style=\"font-family:宋体\">外部网关协议中目前使用最多的是（</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style=\"font-family:宋体\">）</span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">EGP</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IGRP&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">EIGRP</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">BGP-4</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.1 有关路由选择协议的几个基本概念",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">EGP</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IGRP&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">EIGRP</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">BGP-4</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 462700279,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">内部网关协议</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> IGP </span><span style=\"font-size:14px;font-family:宋体\">中最先得到广泛使用的协议是（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">EGP</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RIP</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">OSPF</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;ARP</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.2 内部网关协议RIP",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">EGP</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RIP</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">OSPF</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;ARP</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 2017580840,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RIP </span><span style=\"font-size:14px;font-family: 宋体\">允许一条路径最多只能包含</span> <span style=\"font-size:14px;font-family:宋体\">（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）个路由器。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">5</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">15&nbsp; &nbsp; &nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">16</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">25</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.2 内部网关协议RIP",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">5</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">15&nbsp; &nbsp; &nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">16</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">25</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1580166157,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RIP</span><span style=\"font-size:14px;font-family:宋体\">认为不可达网络的距离为（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">5</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">15</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">16</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">25</span></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.2 内部网关协议RIP",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">5</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">15</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">16</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">25</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1008469358,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RIP</span><span style=\"font-size:14px;font-family:宋体\">使用固定的时间间隔交换路由信息。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.2 内部网关协议RIP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 315218499,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">RIP</span><span style=\"font-size:14px;font-family:宋体\">与网络中所有路由器交换信息。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.2 内部网关协议RIP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1365511065,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">OSPF</span><span style=\"font-size:14px;font-family:宋体\">向本自治系统中所有路由器发送信息。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.3 内部网关协议OSPF",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 928096506,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">OSPF</span><span style=\"font-size:14px;font-family:宋体\">发送的信息就是与本路由器相邻的所有路由器的链路状态。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.3 内部网关协议OSPF",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 356481503,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">OSPF</span><span style=\"font-size:14px;font-family:宋体\">使用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">UDP </span><span style=\"font-size:14px;font-family:宋体\">进行路由信息的传送。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.3 内部网关协议OSPF",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1239004949,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">整个的路由器结构可划分为两大部分：路由选择部分与（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）部分。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">分组转发</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">地址缓存</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">转发表</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">路由表</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.5 路由器的构成",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">分组转发</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">地址缓存</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">转发表</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">路由表</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 797396086,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">路由表是根据路由选择算法得出的。而转发表是从路由表得出的。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.5 路由器的构成",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 208987307,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">路由器中的输入或输出队列产生溢出是造成分组失序的重要原因。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.5 路由器的构成",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1646378380,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">通过总线交换的路由器需要路由选择处理机的干预。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.5 路由器的构成",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1074746081,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">BGP </span><span style=\"font-size:14px;font-family: 宋体\">是自治系统内的路由器之间交换路由信息的协议。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.4 外部网关协议BGP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 654109634,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">自治系统之间的路由选择必须考虑有关技术。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.4 外部网关协议BGP",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1519868184,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">BGP</span><span style=\"font-size:14px;font-family:宋体\">协议中，每一个自治系统中至少要选择一个路由器作为该自治系统的（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">管理员</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">发言人</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">代理</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">缓存结点</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.4 外部网关协议BGP",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">管理员</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">发言人</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">代理</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">缓存结点</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 994377341,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">BGP</span><span style=\"font-size:14px;font-family:宋体\">中，用来与相邻的另一个</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">BGP</span><span style=\"font-size:14px;font-family:宋体\">发言人建立关系的报文是（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">打开报文</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">更新报文</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">保活报文</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">通知报文</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.4 外部网关协议BGP",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">打开报文</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">更新报文</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">保活报文</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">通知报文</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 422680414,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">路由器是（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）层设备。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">物理</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">数据链路</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">网络</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">传输</span></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.4.5 路由器的构成",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">物理</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据链路</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">网络</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">传输</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 2132750259,
+                "type": "10",
+                "question": "<p><br/>RFC 1918定义的第2个地址块前缀为（<span style=\"white-space: pre;\">\t\t\t</span>）位。</p>",
+                "level": "20",
+                "options": {
+                    "A": "<p>8</p>",
+                    "B": "<p>12</p>",
+                    "C": "<p>16</p>",
+                    "D": "<p>24</p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "中",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.5.1 虚拟专用网VPN",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>8</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>12</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>16</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>24</p>"
+                    }
+                ]
+            },
+            {
+                "id": 867802569,
+                "type": "20",
+                "question": "<p><br/>使用加密技术就可以实现虚拟专用网。</p>",
+                "level": "20",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "中",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.5.1 虚拟专用网VPN",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1409441888,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">NAT</span><span style=\"font-size:14px;font-family:宋体\">技术需要使用到加密算法。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.5.2 网络地址转换NAT",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 720320837,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">应用</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">NAT</span><span style=\"font-size:14px;font-family:宋体\">技术不需要使用全球</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.5.2 网络地址转换NAT",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 148689318,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">传统的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> NAT</span><span style=\"font-size:14px;font-family:宋体\">技术使用端口进行地址转换。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.5.2 网络地址转换NAT",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1854568091,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">效率最高的地址转换技术是基于端口的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">NAT</span><span style=\"font-size:14px;font-family:宋体\">。（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.5.2 网络地址转换NAT",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1333202940,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">内部主机与外部主机通信时，在</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">NAT</span><span style=\"font-size:14px;font-family:宋体\">路由器上发生了（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:14px;font-family:宋体\">）次地址转换。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">1</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">2</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">3</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">4</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第4章/4.5.2 网络地址转换NAT",
+                "score": "1.00",
+                "corrector_id": -1,
+                "grade_score": "1.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">1</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">2</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">3</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">4</span></p>"
+                    }
+                ]
+            }
+        ],
+        "task": {
+            "name": "第4章 作业",
+            "answer_hint": "1",
+            "allow_view_score": 1,
+            "allow_view_paper": "1",
+            "answer_review": "1",
+            "_type": "20",
+            "type": "作业",
+            "course_title": "2021秋季公开课",
+            "student": "张顺",
+            "dotime": "2021-10-26 21:11:07",
+            "score": "100.00"
+        }
+    }
+}

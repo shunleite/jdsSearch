@@ -1,0 +1,1146 @@
+{
+    "code": 1,
+    "msg": "",
+    "data": {
+        "questions": [
+            {
+                "id": 1759492572,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">各种网络在物理层互联时要求（）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">数据传输率和链路层协议相同</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">数据传输率相同，链路层协议可不同</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">数据传输率可不同，链路层协议相同</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">数据传输率和链路层协议都可不同</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.1.1 数据通信系统的模型",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": 0,
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据传输率和链路层协议相同</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据传输率相同，链路层协议可不同</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据传输率可不同，链路层协议相同</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据传输率和链路层协议都可不同</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1317887537,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">物理层的主要功能是实现（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp; &nbsp;&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">）的正确的传输</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">位流</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">帧</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">分组</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">报文</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.1.1 数据通信系统的模型",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">位流</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">帧</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">分组</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">报文</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 796587794,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">在</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">OSI</span><span style=\"font-size:14px;font-family:宋体\">参考模型的层次中，（</span><span style=\"font-size: 14px;\"><span style=\"font-family:Calibri, sans-serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span><span style=\"font-size:14px;font-family:宋体\">）的数据传送单位是比特</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">物理层</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">数据链路层</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">网络层</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">传输层</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.1.1 数据通信系统的模型",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">物理层</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据链路层</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">网络层</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">传输层</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1662330024,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">传输媒体的接口电气特性指明在接口电缆的各条线上出现的电压和电流的范围。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.1.1 数据通信系统的模型",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1103297933,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">当数字信号在模拟传输系统中传输时，在发送端和接收端分别需要</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">调制器和解调器</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">解调器和调制器</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">编码器和解码器</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">解码器和编码器</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.1.1 数据通信系统的模型",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">调制器和解调器</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">解调器和调制器</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">编码器和解码器</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">解码器和编码器</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 665817838,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">调制解调器（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">Modem</span><span style=\"font-size:14px;font-family:宋体\">）的功能是实现（）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">数字信号的编码</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">数字信号的整形</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">模拟信号的放大</span></p>",
+                    "D": "<p><span style=\"font-family:宋体\">数字信号与模拟信号</span><span style=\"font-family: 宋体; font-size: 14px;\">的转换</span></p><p><br/></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.1.1 数据通信系统的模型",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数字信号的编码</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数字信号的整形</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">模拟信号的放大</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-family:宋体\">数字信号与模拟信号</span><span style=\"font-family: 宋体; font-size: 14px;\">的转换</span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 94186435,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在计算机通信中，传输的是信号，把直接由计算机产生的数字信号进行传输的方式为（&nbsp;</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">）传输</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">基带传输</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">宽带传输</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">调制</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">解调</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.1.1 数据通信系统的模型",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">基带传输</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">宽带传输</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">调制</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">解调</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1514848292,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在同一时刻，通信双方可以同时发送数据的信道通信方式为（）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">半双工通信</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">单工通信</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">数据报</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">全双工通信</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.1.1 数据通信系统的模型",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">半双工通信</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">单工通信</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据报</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">全双工通信</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 943167769,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">某信道的信号传输率为</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">1000Baud</span><span style=\"font-size:14px;font-family:宋体\">，若想令其数据传输率达到</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">4kb/s</span><span style=\"font-size:14px;font-family:宋体\">，则一个信号码元所取的有效离散值个数是（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp; &nbsp;&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">）（有效离散值个数是指有多少个组合）</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p>16<br/></p>",
+                    "B": "<p>8</p>",
+                    "C": "<p>4</p>",
+                    "D": "<p>2</p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.1.2 信道的极限容量",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>16<br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>8</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>4</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>2</p>"
+                    }
+                ]
+            },
+            {
+                "id": 518340218,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">通信系统必须具备的三个基本要素是</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">终端、电缆、计算机</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">信号发生器、通信线路、信号接收设备</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">信源、信道、信宿</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">终端、通信设施、接收设备</span></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.1.1 数据通信系统的模型",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">终端、电缆、计算机</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">信号发生器、通信线路、信号接收设备</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">信源、信道、信宿</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">终端、通信设施、接收设备</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 719272934,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,&#39;sans-serif&#39;\">&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">在网络中，将语音与计算机产生的数字、文字、图形与图像同时传输，将语音信号数字化的技术是（</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,&#39;sans-serif&#39;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">）</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-family:宋体\">差分</span>Manchester<span style=\"font-family:宋体\">编码</span>&nbsp;&nbsp;</p>",
+                    "B": "<p>PCM<span style=\"font-family:宋体\">技术</span>&nbsp;</p>",
+                    "C": "<p>Manchester<span style=\"font-family: 宋体;\">编码</span>&nbsp;&nbsp;</p>",
+                    "D": "<p>FSK<span style=\"font-family: 宋体;\">方法</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.2.1 频分复用、时分复用和统计时分复用",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-family:宋体\">差分</span>Manchester<span style=\"font-family:宋体\">编码</span>&nbsp;&nbsp;</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>PCM<span style=\"font-family:宋体\">技术</span>&nbsp;</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>Manchester<span style=\"font-family: 宋体;\">编码</span>&nbsp;&nbsp;</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>FSK<span style=\"font-family: 宋体;\">方法</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 143446235,
+                "type": "10",
+                "question": "<p><span style=\"font-family:宋体\">将物理信道的总频带宽分割成若干个子信道，每个子信道传输一路信号，这就是（</span>&nbsp; &nbsp; &nbsp;&nbsp;<span style=\"font-family:宋体\">）。</span>&nbsp;</p><p><br/></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-family: 宋体;\">同步时分多路复用</span></p>",
+                    "B": "<p><span style=\"font-family: 宋体;\">空分多路复用</span></p><p><br/></p>",
+                    "C": "<p><span style=\"font-family: 宋体;\">异步时分多路复用</span><br/></p><p><br/></p>",
+                    "D": "<p><span style=\"font-family: 宋体;\">频分多路复用</span><br/></p><p><br/></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.2.1 频分复用、时分复用和统计时分复用",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-family: 宋体;\">同步时分多路复用</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-family: 宋体;\">空分多路复用</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-family: 宋体;\">异步时分多路复用</span><br/></p><p><br/></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-family: 宋体;\">频分多路复用</span><br/></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1769630012,
+                "type": "20",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">假设向量</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,&#39;sans-serif&#39;\">S</span><span style=\"font-size:14px;font-family:宋体\">表示站</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,&#39;sans-serif&#39;\">S</span><span style=\"font-size:14px;font-family:宋体\">的码片向量，</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,&#39;sans-serif&#39;\"> T</span><span style=\"font-size:14px;font-family:宋体\">表示其他任何站的码片向量。则两个不同站的码片序列正交，指的是向量</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,&#39;sans-serif&#39;\">S</span><span style=\"font-size:14px;font-family:宋体\">和</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,&#39;sans-serif&#39;\">T</span><span style=\"font-size:14px;font-family:宋体\">的规格化内积都是</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,&#39;sans-serif&#39;\">0</span><span style=\"font-size:14px;font-family:宋体\">（</span><span style=\"font-size: 14px;\"><font face=\"Calibri, sans-serif\">&nbsp; &nbsp; &nbsp; &nbsp;</font></span><span style=\"font-size:14px;font-family:宋体\">）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.2.2 码分复用",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1327959569,
+                "type": "10",
+                "question": "<p><span style=\"font-family:宋体\">通常所说的</span>ADSL<span style=\"font-family:宋体\">是指（</span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"font-family:宋体\">）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-family: 宋体;\">上网方式</span><br/></p><p><br/></p>",
+                    "B": "<p><span style=\"font-family: 宋体;\">电脑品牌</span><br/></p><p><br/></p>",
+                    "C": "<p><span style=\"font-family: 宋体;\">网络服务商</span><br/></p><p><br/></p>",
+                    "D": "<p><span style=\"font-family: 宋体;\">网页制作技术</span>&nbsp;&nbsp;<br/></p><p><br/></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.3 ADSL技术",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-family: 宋体;\">上网方式</span><br/></p><p><br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-family: 宋体;\">电脑品牌</span><br/></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-family: 宋体;\">网络服务商</span><br/></p><p><br/></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-family: 宋体;\">网页制作技术</span>&nbsp;&nbsp;<br/></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 756328306,
+                "type": "10",
+                "question": "<p><span style=\"font-family:宋体\">个人计算机通过电话线拨号方式接入因特网时，应使用的设备是（</span>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-family:宋体\">）。</span> </p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size: 14px; font-family: 宋体;\">交换机</span><br/></p><p><br/></p>",
+                    "B": "<p><span style=\"font-size: 14px; font-family: 宋体;\">调制解调器</span><br/></p><p><br/></p>",
+                    "C": "<p><span style=\"font-size: 14px; font-family: 宋体;\">电话机</span></p>",
+                    "D": "<p><span style=\"font-family: 宋体; font-size: 14px;\">浏览器软件</span><br/></p><p><br/></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.3 ADSL技术",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size: 14px; font-family: 宋体;\">交换机</span><br/></p><p><br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size: 14px; font-family: 宋体;\">调制解调器</span><br/></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size: 14px; font-family: 宋体;\">电话机</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-family: 宋体; font-size: 14px;\">浏览器软件</span><br/></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 63077463,
+                "type": "20",
+                "question": "<p><span style=\"font-family:宋体\">调制解调器的下行速率一般比上行速率高。（</span>&nbsp; &nbsp; &nbsp;<span style=\"font-family:宋体\">）</span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.3 ADSL技术",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1638864008,
+                "type": "20",
+                "question": "<p><span style=\"font-family:宋体\">上行信道一般比下行信道的频谱宽。（</span>&nbsp; &nbsp; &nbsp;&nbsp;<span style=\"font-family:宋体\">）</span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.3 ADSL技术",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1201450477,
+                "type": "20",
+                "question": "<p>ADSL<span style=\"font-family:宋体\">调制解调器可以不用成对使用。（</span>&nbsp; &nbsp; &nbsp;<span style=\"font-family:宋体\">）</span></p><p><br/></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第2章/2.3 ADSL技术",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 608846542,
+                "type": "10",
+                "question": "<p><span style=\"color: #333333; font-family: zuoyeFont_mathFont, &quot;Microsoft Yahei&quot;, 宋体, sans-serif; background-color: #FFFFFF;\">根据香农公式,在带宽为6000Hz，噪比为30dB的通信信道极限传输速率是多少Kbps？</span></p>",
+                "level": "20",
+                "options": {
+                    "A": "<p>20<br/></p>",
+                    "B": "<p>30</p>",
+                    "C": "<p>50</p>",
+                    "D": "<p>60</p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "中",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "物理层",
+                "from": "物理层",
+                "dir": "第2章/2.1.2 信道的极限容量",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p>20<br/></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>30</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>50</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>60</p>"
+                    }
+                ]
+            },
+            {
+                "id": 2050431779,
+                "type": "10",
+                "question": "<p>能够说明“信噪比越大信息的极限传输速率越高”的是(&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; )</p>",
+                "level": "20",
+                "options": {
+                    "A": "带宽&nbsp;",
+                    "B": "<p>傅里叶原理&nbsp;</p>",
+                    "C": "<p>香农原理</p>",
+                    "D": "<p>奈奎斯特原理</p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "中",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "物理层",
+                "from": "物理层",
+                "dir": "第2章/2.1.2 信道的极限容量",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "带宽&nbsp;"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>傅里叶原理&nbsp;</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>香农原理</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>奈奎斯特原理</p>"
+                    }
+                ]
+            },
+            {
+                "id": 1491382276,
+                "type": "20",
+                "question": "所谓信噪比就是信号的平均功率和总功率之比，常记为S/N，并用分贝（dB）作为度量单位。",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "物理层",
+                "from": "物理层",
+                "dir": "第2章/2.1.2 信道的极限容量",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1053968761,
+                "type": "20",
+                "question": "香农公式的意义在于：只要信息传输速率低于信道的极限信息传输速率，就一定可以找到某种方法来实现无差错的传输。",
+                "level": "20",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "中",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "物理层",
+                "from": "物理层",
+                "dir": "第2章/2.1.2 信道的极限容量",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1398431632,
+                "type": "20",
+                "question": "<p>CDMA的一个重要特点是：每个站分配的码片序列不仅必须各不相同，并且还必须互相正交。</p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "物理层",
+                "from": "物理层",
+                "dir": "第2章/2.2.2 码分复用",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 822605045,
+                "type": "20",
+                "question": "<p>CDMA中的每个站都将被指派一个唯一的 m bit 码片序列。如果要发送比特 0，则发送自己的 m bit 码片序列。</p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "物理层",
+                "from": "物理层",
+                "dir": "第2章/2.2.2 码分复用",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 401903062,
+                "type": "20",
+                "question": "在CDMA中，令向量 S 表示站S的码片向量，令 T 表示其他任何站的码片向量。则S与T的规格化内积为1。",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "物理层",
+                "from": "物理层",
+                "dir": "第2章/2.2.2 码分复用",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            }
+        ],
+        "task": {
+            "name": "第2章 作业",
+            "answer_hint": "1",
+            "allow_view_score": 1,
+            "allow_view_paper": "1",
+            "answer_review": "1",
+            "_type": "20",
+            "type": "作业",
+            "course_title": "2021秋季公开课",
+            "student": "张顺",
+            "dotime": "2021-09-28 21:25:49",
+            "score": "96.00"
+        }
+    }
+}

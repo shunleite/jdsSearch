@@ -1,0 +1,1391 @@
+{
+    "code": 1,
+    "msg": "",
+    "data": {
+        "questions": [
+            {
+                "id": 51543346,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">用户提出服务请求</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">,</span><span style=\"font-size:14px;font-family:宋体\">网络将用户请求传送到服务器</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">;</span><span style=\"font-size:14px;font-family:宋体\">服务器执行用户请求</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">,</span><span style=\"font-size:14px;font-family:宋体\">完成所要求的操作并将结果送回用户</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">,</span><span style=\"font-size:14px;font-family:宋体\">这种工作模式称为<span style=\"font-family: Calibri, sans-serif; font-size: 14px;\">（ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;）</span></span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">客户服务器模式</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">点到点模式</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SMA/CD</span><span style=\"font-size:14px;font-family:宋体\">模式</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">令牌环模式</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.1 运输层协议概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">客户服务器模式</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">点到点模式</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">SMA/CD</span><span style=\"font-size:14px;font-family:宋体\">模式</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">令牌环模式</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1202498376,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">应用层的各种进程通过（ &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 14px;\"><span style=\"font-family:Calibri, sans-serif\">&nbsp;</span></span><span style=\"font-size:14px;font-family:宋体\">）实现与运输实体的交互。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">程序</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">端口</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">进程</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">调用</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.1 运输层协议概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">程序</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">端口</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">进程</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">调用</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 630866861,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">熟知端口的范围是（ &nbsp; &nbsp;）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">0</span><span style=\"font-size:14px;font-family:宋体\">～</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">99</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">0</span><span style=\"font-size:14px;font-family:宋体\">～</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">1023</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">0</span><span style=\"font-size:14px;font-family:宋体\">～</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">0</span><span style=\"font-size:14px;font-family:宋体\">～</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">65535</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.1 运输层协议概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">0</span><span style=\"font-size:14px;font-family:宋体\">～</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">99</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">0</span><span style=\"font-size:14px;font-family:宋体\">～</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">1023</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">0</span><span style=\"font-size:14px;font-family:宋体\">～</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">255</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">0</span><span style=\"font-size:14px;font-family:宋体\">～</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">65535</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1479848419,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">欲保证一个报文可靠、无差错的传输到接收端，</span><span style=\"font-size: 14px;\"><span style=\"font-family:Calibri, sans-serif\">下列哪种说法正确（ &nbsp; &nbsp; ）。</span></span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP最适合</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">UDP&nbsp;<span style=\"font-family: Calibri, sans-serif; font-size: 14px;\">最适合</span></span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">两个都可以</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">不能比较</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.2 用户数据报协议UDP",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP最适合</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">UDP&nbsp;<span style=\"font-family: Calibri, sans-serif; font-size: 14px;\">最适合</span></span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">两个都可以</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">不能比较</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1055020740,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">下述的哪一种协议是不属于</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP/IP</span><span style=\"font-size:14px;font-family:宋体\">模型的协议（ &nbsp;）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">UDP&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ICMP</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HDLC</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.2 用户数据报协议UDP",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">UDP&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">ICMP</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">HDLC</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 483389241,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">UDP </span><span style=\"font-size:14px;font-family: 宋体\">协议校验的数据是（ &nbsp; ）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">首部＋伪首部</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">首部</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">首部＋数据</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">伪首部＋数据</span></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.2 用户数据报协议UDP",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">首部＋伪首部</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">首部</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">首部＋数据</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">伪首部＋数据</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1924957210,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">UDP</span><span style=\"font-size:14px;font-family:宋体\">中伪首部中的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址内容和编排顺序是（ &nbsp;）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">只有源</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">只有目的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">源</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址＋目的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">目的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">+</span><span style=\"font-size:14px;font-family:宋体\">源</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.2 用户数据报协议UDP",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">只有源</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">只有目的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">源</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址＋目的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">目的</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">+</span><span style=\"font-size:14px;font-family:宋体\">源</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">IP</span><span style=\"font-size:14px;font-family:宋体\">地址</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1399479679,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP </span><span style=\"font-size:14px;font-family: 宋体\">的主要功能是（ &nbsp; &nbsp;）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">进行数据分组</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">保证可靠传输</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">确定数据传输路径</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">提高传输速度</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.3 传输控制协议TCP概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">进行数据分组</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">保证可靠传输</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">确定数据传输路径</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">提高传输速度</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 386173621,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">报文中确认序号指的是</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;（ &nbsp; &nbsp; &nbsp;）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">已经收到的最后一个数据序号</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">期望收到的第一个字节序号</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">出现错误的数据序号</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">请求重传的数据序号</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.3 传输控制协议TCP概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">已经收到的最后一个数据序号</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">期望收到的第一个字节序号</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">出现错误的数据序号</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">请求重传的数据序号</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1978803094,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">（ &nbsp; &nbsp; &nbsp;）的功能不属于</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">协议的职责。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">端到端的流量控制</span></p>",
+                    "B": "<p style=\"line-height:140%\"><span style=\"font-family:宋体\">重传出错或被丢弃的数据</span></p><p><br/></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">识别接收次序与发送次序不同的数据</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">发现网络错误时候报告网络错误</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.3 传输控制协议TCP概述",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">端到端的流量控制</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p style=\"line-height:140%\"><span style=\"font-family:宋体\">重传出错或被丢弃的数据</span></p><p><br/></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">识别接收次序与发送次序不同的数据</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">发现网络错误时候报告网络错误</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 242890241,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">在</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP/IP</span><span style=\"font-size:14px;font-family:宋体\">参考模型中</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">,</span><span style=\"font-size:14px;font-family:宋体\">运输层的主要作用是在互联网络的源主机和目的主机对等实体之间建立用于会话的（ &nbsp; &nbsp;）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">物理连接</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">操作连接</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">端到端连接</span></p>",
+                    "D": "<p style=\"line-height:140%\"><span style=\"font-family:宋体\">控制连接</span></p><p><br/></p>"
+                },
+                "answer": [
+                    "C"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.4 可靠传输的工作原理",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "C"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">物理连接</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">操作连接</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">端到端连接</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p style=\"line-height:140%\"><span style=\"font-family:宋体\">控制连接</span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1108698183,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">下列不属于通信子网的是（ &nbsp; &nbsp; ）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">物理层</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">数据链路层</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">网络层</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">运输层</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.4 可靠传输的工作原理",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">物理层</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据链路层</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">网络层</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">运输层</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 549600440,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">可靠的传输协议中的“可靠”指的是（ &nbsp; &nbsp; ）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">使用面向连接的会话</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">使用“尽力而为”的传输</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">用滑动窗口来维持可靠性</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">使用确认机制来确保传输的数据不丢失</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.4 可靠传输的工作原理",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">使用面向连接的会话</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">使用“尽力而为”的传输</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">用滑动窗口来维持可靠性</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">使用确认机制来确保传输的数据不丢失</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 112186781,
+                "type": "10",
+                "question": "<p><span style=\"font-size:14px;font-family:宋体\">在</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\"> TCP/IP </span><span style=\"font-size:14px;font-family:宋体\">参考模型中</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">协议工作在：（ &nbsp; &nbsp;）。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">应用层</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">运输层</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">互连层</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">主机</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">-</span><span style=\"font-size:14px;font-family:宋体\">网络层</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.5 TCP报文段的首部格式",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">应用层</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">运输层</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">互连层</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">主机</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">-</span><span style=\"font-size:14px;font-family:宋体\">网络层</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1688038142,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">报文段中序号字段指的是<span style=\"font-family: 宋体; font-size: 14px;\">（ &nbsp; &nbsp; ）。</span></span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">数据部分第一个字节</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">数据部分最后一个字节</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">报文首部第一个字节</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>",
+                    "D": "<p style=\"line-height:140%\"><span style=\"font-family:宋体\">报文最后一个字节</span></p><p><br/></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.5 TCP报文段的首部格式",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">数据部分第一个字节</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据部分最后一个字节</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">报文首部第一个字节</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p style=\"line-height:140%\"><span style=\"font-family:宋体\">报文最后一个字节</span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1162478547,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">报文中确认序号指的是<span style=\"font-family: 宋体; font-size: 14px;\">（ &nbsp; &nbsp; ）。</span></span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">已经收到的最后一个数据序号</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">期望收到的第一个字节序号</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">出现错误的数据序号</span></p>",
+                    "D": "<p style=\"line-height:140%\"><span style=\"font-family:宋体\">请求重传的数据序号</span></p><p><br/></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.5 TCP报文段的首部格式",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">已经收到的最后一个数据序号</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">期望收到的第一个字节序号</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">出现错误的数据序号</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p style=\"line-height:140%\"><span style=\"font-family:宋体\">请求重传的数据序号</span></p><p><br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 456644660,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">报文的首部最小长度是（&nbsp;</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">）字节。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">30&nbsp;</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;25&nbsp;</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">40&nbsp;&nbsp;</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">20</span></p>"
+                },
+                "answer": [
+                    "D"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.5 TCP报文段的首部格式",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "D"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">30&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;25&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">40&nbsp;&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">20</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 2045079913,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">的确认是对接收到的数据中（ &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"font-size: 14px;\"><span style=\"font-family:Calibri, sans-serif\">&nbsp;</span></span><span style=\"font-size:14px;font-family:宋体\">）</span> <span style=\"font-size:14px;font-family:宋体\">表示确认。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">最高序号</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">第一个序号</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">第二个序号</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:宋体\">倒数第二个序号</span></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.6 TCP可靠传输的实现",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">最高序号</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">第一个序号</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">第二个序号</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">倒数第二个序号</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1035972271,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">协议是采用（</span><span style=\"font-size: 14px;\"><span style=\"font-family:Calibri, sans-serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style=\"font-size:14px;font-family:宋体\">）进行编号的。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">按报文段</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">字节</span></p>",
+                    "C": "<p><span style=\"font-size:14px;font-family:宋体\">数据帧</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>",
+                    "D": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;IP</span><span style=\"font-size:14px;font-family:宋体\">数据报</span></p>"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.6 TCP可靠传输的实现",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">按报文段</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">字节</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">数据帧</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;IP</span><span style=\"font-size:14px;font-family:宋体\">数据报</span></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1884953829,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">规定接收数据时必须按顺序接收，该说法是（ &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 14px;\"><span style=\"font-family:Calibri, sans-serif\">&nbsp;</span></span><span style=\"font-size:14px;font-family:宋体\">）的</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.6 TCP可靠传输的实现",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 178447132,
+                "type": "10",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">采用（ &nbsp; &nbsp;&nbsp;</span><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">&nbsp;&nbsp;</span><span style=\"font-size:14px;font-family:宋体\">）的方式进行流量控制。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "<p><span style=\"font-size:14px;font-family:宋体\">可变发送窗口</span></p>",
+                    "B": "<p><span style=\"font-size:14px;font-family:宋体\">固定发送窗口</span></p>",
+                    "C": "<p><span style=\"font-family: 宋体; font-size: 14px;\">固定接收窗口</span></p>",
+                    "D": "<p>以上都不是<br/></p>"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "单选题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.7 TCP的流量控制",
+                "score": "4.00",
+                "corrector_id": -1,
+                "grade_score": "4.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">可变发送窗口</span></p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p><span style=\"font-size:14px;font-family:宋体\">固定发送窗口</span></p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p><span style=\"font-family: 宋体; font-size: 14px;\">固定接收窗口</span></p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>以上都不是<br/></p>"
+                    }
+                ]
+            },
+            {
+                "id": 1232949586,
+                "type": "20",
+                "question": "<p><span style=\"font-size: 14px; font-family: Calibri, sans-serif;\">TCP</span><span style=\"font-size: 14px; font-family: 宋体;\">每发送一个报文段，就启动一个定时器。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.7 TCP的流量控制",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 219647720,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">拥塞控制中的慢启动是指发送的数据报每次增加一个。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.8 TCP的拥塞控制",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1673865165,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">当拥塞窗口增加到门限窗口时，拥塞窗口增长速度降为线形增长，此为拥塞避免。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.8 TCP的拥塞控制",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1102249006,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:宋体\">进入拥塞避免时，拥塞窗口不再增加。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.8 TCP的拥塞控制",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 72165988,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">协议中，连接管理的方法为三次握手机制。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.9 TCP的运输连接管理",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 954702778,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">建立连接时，三次握手的机制可以防止超时失效报文的干扰。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "A"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.9 TCP的运输连接管理",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "A"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 517288095,
+                "type": "20",
+                "question": "<p><br/><span style=\"font-size:14px;font-family:&#39;Calibri&#39;,sans-serif\">TCP</span><span style=\"font-size:14px;font-family:宋体\">连接建立时，双方协商参数为端口号。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.9 TCP的运输连接管理",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 2088946160,
+                "type": "20",
+                "question": "<p>TCP通过<span style=\"font-size:14px;font-family:宋体\">三次握手的方式释放连接。</span></p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "",
+                "from": "",
+                "dir": "第5章/5.9 TCP的运输连接管理",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            },
+            {
+                "id": 1980026272,
+                "type": "20",
+                "question": "<p>TCP报文段首部的“窗口”字段长度为32bit。（ &nbsp; ）</p>",
+                "level": "10",
+                "options": {
+                    "A": "正确",
+                    "B": "错误"
+                },
+                "answer": [
+                    "B"
+                ],
+                "tips": "",
+                "parent": 1163945558,
+                "is_subjective": 0,
+                "level_text": "易",
+                "type_text": "判断题",
+                "section": "",
+                "chapter": "运输层",
+                "from": "运输层",
+                "dir": "第5章/5.5 TCP报文段的首部格式",
+                "score": "2.00",
+                "corrector_id": -1,
+                "grade_score": "2.00",
+                "memo": "",
+                "student_answer": [
+                    "B"
+                ],
+                "options_app": [
+                    {
+                        "key": "A",
+                        "value": "正确"
+                    },
+                    {
+                        "key": "B",
+                        "value": "错误"
+                    }
+                ]
+            }
+        ],
+        "task": {
+            "name": "第5章 作业",
+            "answer_hint": "1",
+            "allow_view_score": 1,
+            "allow_view_paper": "1",
+            "answer_review": "1",
+            "_type": "20",
+            "type": "作业",
+            "course_title": "2021秋季公开课",
+            "student": "张顺",
+            "dotime": "2021-11-23 20:49:39",
+            "score": "100.00"
+        }
+    }
+}
