@@ -248,3 +248,4 @@ if __name__ == "__main__":
                     """ + content + """
                 </table>
                 """, unsafe_allow_html=True)
+            st.write("")
