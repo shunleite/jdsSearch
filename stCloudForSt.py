@@ -72,7 +72,9 @@ def generateQuestion(data: dict, num=1, place=None):
 @st.cache
 def getPdfText(path:str) -> list:
     text = []
-    with open(r"txt/计算机网络（第7版）.txt", "r+", encoding="utf-8") as f:
+    if not os.path.exists(path):
+        return text
+    with open(path, "r+", encoding="utf-8") as f:
         text = f.readlines()
     return text
 
@@ -87,26 +89,43 @@ def pdfAnswers(path:str,searchStr:str) -> list:
             searTable.append(line.strip())
     return searTable
 
+@st.cache
+def getPdfTxtDict(name):
+    dicts = {'计算机网络':['计算机网络（第7版）','计算机网络谢希仁第七版配套课后答案'],'近代史':[]}
+    return dicts.get(name,[])
+
+
 if __name__ == "__main__":
     st.set_page_config(page_title='刷题系统单页', menu_items={
         'Report a bug': "http://10.102.4.220:8033",
         'About': "# 测试项目,近代史答案"
     })
+    if 'pageNum' not in st.session_state:
+        st.session_state['pageNum'] = 1
+    if 'answerStatus' not in st.session_state:
+        st.session_state['answerStatus'] = 3
+    if 'reviewContent' not in st.session_state:
+        st.session_state['reviewContent'] = {'content': '计算机网络', 'chapter': 0,'searchStatus':False}
+    if not st.session_state['reviewContent'].get('choiceTxt'):
+        st.session_state['reviewContent']['choiceTxt'] =  getPdfTxtDict(st.session_state['reviewContent']['content'])
+    # print("能正确输出：",st.session_state['reviewContent'])
+
     st.sidebar.title("刷题测试单页")
     choice_selectbox = st.sidebar.selectbox(
         "请选择要复习的内容",
         ("计算机网络", "近代史")
     )
+    st.session_state['reviewContent']['content'] = choice_selectbox
     if choice_selectbox == "计算机网络":
         add_selectbox = st.sidebar.selectbox(
             "请选择复习的章节",
-            ("第{0}章".format(i) for i in range(1, 10)),index=3
+            ("第{0}章".format(i) for i in range(1, 10)),index=st.session_state['reviewContent']['chapter']
         )
-    data = readJsonJw(count=''.join(filter(str.isdigit, add_selectbox)))
-    if 'pageNum' not in st.session_state:
+    nowChapter = ''.join(filter(str.isdigit, add_selectbox))
+    data = readJsonJw(count=nowChapter)
+    if st.session_state['reviewContent']['chapter'] != int(nowChapter) - 1:
         st.session_state['pageNum'] = 1
-    if 'answerStatus' not in st.session_state:
-        st.session_state['answerStatus'] = 3
+        st.session_state['reviewContent']['chapter'] = int(nowChapter) - 1
     nowTotal = len(data.get("data", {}).get("questions", []))
     col1, col2, col3 = st.columns(3)
     with col1:
@@ -115,12 +134,14 @@ if __name__ == "__main__":
             if st.session_state['pageNum'] < 1:
                 st.session_state['pageNum'] = 1
             st.session_state['answerStatus'] = 3
+            st.session_state['reviewContent']['searchStatus'] = False
     with col3:
         if st.button('下一题', key='next'):
             st.session_state['pageNum'] += 1
             if st.session_state['pageNum'] > nowTotal:
                 st.session_state['pageNum'] = nowTotal
             st.session_state['answerStatus'] = 3
+            st.session_state['reviewContent']['searchStatus']  = False
     with col2:
         st.write(nowTotal, ":", st.session_state['pageNum'])
         # if st.button('提交', key='commit'):
@@ -163,27 +184,43 @@ if __name__ == "__main__":
             break
         i = i + 1
     # print("内容:", st.session_state['answerStatus'])
-    if st.session_state['answerStatus'] == 1 and submit:
+    if st.session_state['answerStatus'] == 1 and (submit or st.session_state['reviewContent']['searchStatus']):
         st.success("答案正确")
-    elif st.session_state['answerStatus'] == 0 and submit:
+    elif st.session_state['answerStatus'] == 0 and (submit or st.session_state['reviewContent']['searchStatus']):
         st.error("答案错误")
     isClick = False
     searchContent = ''
     # with st.empty():
     #     st.write(f"⏳ ")
+    def changeStatusSearch():
+        st.session_state['reviewContent']['searchStatus'] = False
+
     col4,col5 = st.columns(2)
 
     with col4:
-        searchContent = st.text_input(label=f"⏳ Search ^v^~",value='IP 协议',help="查询字符串之间使用\"空格\"可以过滤查询到的数据")
+        searchContent = st.text_input(label=f"⏳ Search ^v^~",value='IP 协议',help="查询字符串之间使用\"空格\"可以过滤查询到的数据", on_change=changeStatusSearch)
 
     with col5:
         st.write('   ‍')
 
         if st.button('Search'):
             isClick = True
+            st.session_state['reviewContent']['searchStatus'] = True
         st.text(' ')
-    searchResult = pdfAnswers(getFileOrDirPath("txt/计算机网络（第7版）.txt"),searchContent)
-    if isClick and searchResult:
-        st.table(pd.DataFrame({
-            '待选答案':searchResult
-        }))
+
+    if isClick or st.session_state['reviewContent']['searchStatus']:
+        options = st.multiselect(
+            '请选择要参考的PDF',
+            ['计算机网络（第7版）', '计算机网络谢希仁第七版配套课后答案'],
+            st.session_state['reviewContent']['choiceTxt'])
+
+        # st.write('You selected:', options)
+        st.session_state['reviewContent']['choiceTxt'] = options
+        for searchC in options:
+            # print(searchC, getFileOrDirPath("txt/" + searchC + ".txt"))
+            searchResult = pdfAnswers(getFileOrDirPath("txt/" + searchC + ".txt"), searchContent)
+            # searchResult
+            st.warning(searchC)
+            st.table(pd.DataFrame({
+                '待选答案':searchResult
+            }))

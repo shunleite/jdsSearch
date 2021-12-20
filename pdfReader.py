@@ -12,7 +12,7 @@ import re
 
 from pdfminer.pdfinterp import PDFPageInterpreter,PDFResourceManager
 from pdfminer.converter import TextConverter,PDFPageAggregator
-from pdfminer.layout import LAParams
+from pdfminer.layout import LAParams, LTFigure
 from pdfminer.pdfparser import PDFParser
 from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfdevice import PDFDevice
@@ -53,28 +53,39 @@ def parse(pdf_path, result_path):
         # 使用聚合器来获取内容
         layout = device.get_result()
         for out in layout:
-            if hasattr(out, 'get_text'):
-                # print(out.get_text())
+            if isinstance(out, LTFigure):
+                pass
+                # for out2 in out:
+                #     if hasattr(out2, 'get_text'):
+                #         print(out2.get_text())
+                #
+                #         # 写入txt文件
+                #         fw = open(result_path, 'a', encoding="utf-8")
+                #         fw.write(out2.get_text())
 
-                # 写入txt文件
-                fw = open(result_path, 'a',encoding="utf-8")
-                fw.write(out.get_text())
+            else:
+                if hasattr(out, 'get_text'):
+                    print(out.get_text())
+
+                    # 写入txt文件
+                    fw = open(result_path, 'a', encoding="utf-8")
+                    fw.write(out.get_text())
 
 
 
 
 if __name__ == '__main__':
-    pdf_path = os.path.join(os.path.dirname(__file__), r'txt/计算机网络（第7版）.pdf')
-    result_path = os.path.join(os.path.dirname(__file__), r'txt/计算机网络（第7版）.txt')
+    pdf_path = os.path.join(os.path.dirname(__file__), 'txt/计算机网络谢希仁第七版配套课后答案.pdf')
+    result_path = os.path.join(os.path.dirname(__file__), 'txt/计算机网络谢希仁第七版配套课后答案.txt')
 
-    # parse(pdf_path,result_path)
-    text = []
-    with open(r"txt/计算机网络（第7版）.txt", "r+", encoding="utf-8") as f:
-        text = f.readlines()
-    searchStr = "RIP 使用".split()
-    searTable = []
-    for line in text:
-        if all(i in line for i in searchStr):
-            searTable.append(line.strip())
-    print(searTable)
+    parse(pdf_path,result_path)
+    # text = []
+    # with open(r"txt/计算机网络（第7版）.txt", "r+", encoding="utf-8") as f:
+    #     text = f.readlines()
+    # searchStr = "RIP 使用".split()
+    # searTable = []
+    # for line in text:
+    #     if all(i in line for i in searchStr):
+    #         searTable.append(line.strip())
+    # print(searTable)
 
