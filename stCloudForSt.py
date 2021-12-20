@@ -17,14 +17,16 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import streamlit as st
 
+
 def getFileOrDirPath(name):
     return os.path.join(os.path.dirname(__file__), name)
+
 
 @st.cache
 def readJsonJw(count='1'):
     # for item in os.listdir(getFileOrDirPath("jw")):
-    s={}
-    u = urlopen("https://cdn.jsdelivr.net/gh/shunleite/jdsSearch@main/jw/work" + count +".json")
+    s = {}
+    u = urlopen("https://cdn.jsdelivr.net/gh/shunleite/jdsSearch@main/jw/work" + count + ".json")
     s = json.loads(u.read().decode('utf-8'))
     random.shuffle(s.get("data", {}).get("questions", []))
     # for item in s.get("data",{}).get("questions",[]):
@@ -33,16 +35,16 @@ def readJsonJw(count='1'):
     return s
 
 
-def generateQuestion(data:dict, num=1,place=None):
-    print(num+1)
+def generateQuestion(data: dict, num=1, place=None):
+    print(num + 1)
     if num < 1:
         num = 1
     i = 1
-    for item in data.get("data",{}).get("questions",[]):
+    for item in data.get("data", {}).get("questions", []):
         if i == num:
             print('form' + str(i))
             with st.form(key='form' + str(i)):
-                st.write(item.get("question"),unsafe_allow_html=True)
+                st.write(item.get("question"), unsafe_allow_html=True)
                 slider_val = st.slider("题")
                 checkbox_val = st.checkbox("A选项")
 
@@ -59,7 +61,23 @@ def generateQuestion(data:dict, num=1,place=None):
     st.empty()
 
 
+@st.cache
+def getPdfText(path:str) -> list:
+    text = []
+    with open(r"txt/计算机网络（第7版）.txt", "r+", encoding="utf-8") as f:
+        text = f.readlines()
+    return text
 
+def pdfAnswers(path:str,searchStr:str) -> list:
+    text = getPdfText(path)
+    if not searchStr:
+        return []
+    searchStr = searchStr.split()
+    searTable = []
+    for line in text:
+        if all(i in line for i in searchStr):
+            searTable.append(line.strip())
+    return searTable
 
 if __name__ == "__main__":
     st.set_page_config(page_title='刷题系统单页', menu_items={
@@ -74,15 +92,15 @@ if __name__ == "__main__":
     if choice_selectbox == "计算机网络":
         add_selectbox = st.sidebar.selectbox(
             "请选择复习的章节",
-            ("第{0}章".format(i) for i in range(1,10))
+            ("第{0}章".format(i) for i in range(1, 10))
         )
-    data=readJsonJw(count=''.join(filter(str.isdigit,add_selectbox)))
+    data = readJsonJw(count=''.join(filter(str.isdigit, add_selectbox)))
     if 'pageNum' not in st.session_state:
         st.session_state['pageNum'] = 1
     if 'answerStatus' not in st.session_state:
         st.session_state['answerStatus'] = 3
-    nowTotal = len(data.get("data",{}).get("questions",[]))
-    col1,col2, col3 = st.columns(3)
+    nowTotal = len(data.get("data", {}).get("questions", []))
+    col1, col2, col3 = st.columns(3)
     with col1:
         if st.button('上一题'):
             st.session_state['pageNum'] -= 1
@@ -96,22 +114,23 @@ if __name__ == "__main__":
                 st.session_state['pageNum'] = nowTotal
             st.session_state['answerStatus'] = 3
     with col2:
-        st.write(nowTotal,":",st.session_state['pageNum'])
+        st.write(nowTotal, ":", st.session_state['pageNum'])
         # if st.button('提交', key='commit'):
         #     st.session_state['answerStatus'] = True
 
     submit = False
     i = 1
-    for item in data.get("data",{}).get("questions",[]):
+    for item in data.get("data", {}).get("questions", []):
         if i == st.session_state['pageNum']:
             print('form' + str(i))
             answer = None
             with st.form(key='form' + str(i)):
-                if item.get("type_text")=='判断题':
+                if item.get("type_text") == '判断题':
                     genre = st.radio(
                         # st.write(item.get("question"),unsafe_allow_html=True),
                         BeautifulSoup(item.get("question"), "lxml").text,
-                        tuple(('√' if key=='A' else '×') + ". " + value for key, value in item.get("options").items()),
+                        tuple(
+                            ('√' if key == 'A' else '×') + ". " + value for key, value in item.get("options").items()),
                     )
                     if genre[0] == '√':
                         answer = 'A'
@@ -121,7 +140,8 @@ if __name__ == "__main__":
                     genre = st.radio(
                         # st.write(item.get("question"),unsafe_allow_html=True),
                         BeautifulSoup(item.get("question"), "lxml").text,
-                        tuple(key + ". " + BeautifulSoup(value,'lxml').text for key, value in item.get("options").items()),
+                        tuple(key + ". " + BeautifulSoup(value, 'lxml').text for key, value in
+                              item.get("options").items()),
                     )
                     answer = genre[0]
                 # # Every form must have a submit button.
@@ -140,3 +160,23 @@ if __name__ == "__main__":
         st.success("答案正确")
     elif st.session_state['answerStatus'] == 0 and submit:
         st.error("答案错误")
+    isClick = False
+    searchContent = ''
+    # with st.empty():
+    #     st.write(f"⏳ ")
+    col4,col5 = st.columns(2)
+
+    with col4:
+        searchContent = st.text_input(label=f"⏳ Search ^v^~",value='IP 协议',autocomplete="IP")
+
+    with col5:
+        st.write(' 🐱‍🏍‍')
+
+        if st.button('Search'):
+            isClick = True
+        st.text(' ')
+    searchResult = pdfAnswers(getFileOrDirPath("txt/计算机网络（第7版）.txt"),searchContent)
+    if isClick and searchResult:
+        st.table(pd.DataFrame({
+            '待选答案':searchResult
+        }))
