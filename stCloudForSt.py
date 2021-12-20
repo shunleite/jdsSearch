@@ -86,6 +86,10 @@ def pdfAnswers(path:str,searchStr:str) -> list:
     searTable = []
     for line in text:
         if all(i in line for i in searchStr):
+            for name in searchStr:
+                line = line.replace(name,
+                             "<div style='background-color: rgba(0, 135, 107, 0.2); padding: 1px 6px; margin: 0px 5px; display: inline; vertical-align: middle; border-radius: 3px; font-size: 0.75rem; font-weight: 400;'>" +
+                             name + "</div>")
             searTable.append(line.strip())
     return searTable
 
@@ -229,6 +233,18 @@ if __name__ == "__main__":
             searchResult = pdfAnswers(getFileOrDirPath("txt/" + searchC + ".txt"), searchContent)
             # searchResult
             st.warning(searchC)
-            st.table(pd.DataFrame({
-                '待选答案':searchResult
-            }))
+            # st.table(pd.DataFrame({
+            #     '待选答案':searchResult
+            # }))
+            content = """"""
+            for num, line in enumerate(searchResult,start=1):
+                content += """<tr><td>"""  + str(num) + """</td><td>""" + line + """</td></tr>"""
+            st.markdown("""
+                        <table>
+                    <tr>
+                        <th></th>
+                        <th>待选答案</th>
+                    </tr>
+                    """ + content + """
+                </table>
+                """, unsafe_allow_html=True)
