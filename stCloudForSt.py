@@ -97,7 +97,7 @@ def getPdfTxtDict(name):
 
 if __name__ == "__main__":
     st.set_page_config(page_title='刷题系统单页', menu_items={
-        'Report a bug': "http://10.102.4.220:8033",
+        'Report a bug': "http://wpa.qq.com/msgrd?v=3&uin=83118937&site=qq&menu=yes",
         'About': "# 测试项目,近代史答案"
     })
     if 'pageNum' not in st.session_state:
@@ -110,7 +110,10 @@ if __name__ == "__main__":
         st.session_state['reviewContent']['choiceTxt'] =  getPdfTxtDict(st.session_state['reviewContent']['content'])
     # print("能正确输出：",st.session_state['reviewContent'])
 
-    st.sidebar.title("刷题测试单页")
+    st.sidebar.info(r"""
+    🎈 **NEW:** 刷題单页
+    >[Report a bug](http://wpa.qq.com/msgrd?v=3&uin=83118937&site=qq&menu=yes)
+    """)
     choice_selectbox = st.sidebar.selectbox(
         "请选择要复习的内容",
         ("计算机网络", "近代史")
@@ -121,11 +124,16 @@ if __name__ == "__main__":
             "请选择复习的章节",
             ("第{0}章".format(i) for i in range(1, 10)),index=st.session_state['reviewContent']['chapter']
         )
+    st.sidebar.write('')
+    st.sidebar.write('')
+    st.sidebar.write('')
+    st.sidebar.button("確定")
     nowChapter = ''.join(filter(str.isdigit, add_selectbox))
     data = readJsonJw(count=nowChapter)
     if st.session_state['reviewContent']['chapter'] != int(nowChapter) - 1:
         st.session_state['pageNum'] = 1
         st.session_state['reviewContent']['chapter'] = int(nowChapter) - 1
+        st.session_state['reviewContent']['searchStatus'] = False
     nowTotal = len(data.get("data", {}).get("questions", []))
     col1, col2, col3 = st.columns(3)
     with col1:
