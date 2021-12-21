@@ -100,6 +100,27 @@ def getPdfTxtDict(name):
     dicts = {'计算机网络':['计算机网络（第7版）','计算机网络谢希仁第七版配套课后答案'],'近代史':[]}
     return dicts.get(name,[])
 
+@st.cache
+def getAllAnswerContent() -> dict:
+    content = {}
+    with open(getFileOrDirPath("data/jw.json"), "r", encoding="utf-8") as f:
+        content = json.load(f)
+    for k in content:
+        for item in content[k]:
+            item['question'] = BeautifulSoup(item['question'], 'lxml').text.strip()
+    return content
+
+def getAnswer(name):
+    content = getAllAnswerContent()
+    questions = []
+    answers = []
+    for k in content:
+        for item in content[k]:
+            if name in item['question']:
+                answer = BeautifulSoup(item['options'][item['answer'][0]], 'lxml').text.strip()
+                questions.append(item['question'])
+                answers.append(answer)
+    return questions, answers
 
 if __name__ == "__main__":
     st.set_page_config(page_title='刷题系统单页', menu_items={
@@ -125,129 +146,142 @@ if __name__ == "__main__":
         ("计算机网络", "近代史")
     )
     st.session_state['reviewContent']['content'] = choice_selectbox
-    if choice_selectbox == "计算机网络":
-        add_selectbox = st.sidebar.selectbox(
-            "请选择复习的章节",
-            ("第{0}章".format(i) for i in range(1, 10)),index=st.session_state['reviewContent']['chapter']
-        )
-    st.sidebar.write('')
-    st.sidebar.write('')
-    st.sidebar.write('')
-    st.sidebar.button("確定")
-    nowChapter = ''.join(filter(str.isdigit, add_selectbox))
-    data = readJsonJw(count=nowChapter)
-    if st.session_state['reviewContent']['chapter'] != int(nowChapter) - 1:
-        st.session_state['pageNum'] = 1
-        st.session_state['reviewContent']['chapter'] = int(nowChapter) - 1
-        st.session_state['reviewContent']['searchStatus'] = False
-    nowTotal = len(data.get("data", {}).get("questions", []))
-    col1, col2, col3 = st.columns(3)
-    with col1:
-        if st.button('上一题'):
-            st.session_state['pageNum'] -= 1
-            if st.session_state['pageNum'] < 1:
-                st.session_state['pageNum'] = 1
-            st.session_state['answerStatus'] = 3
+    choice_mode = st.sidebar.selectbox(
+        "请选择模式",
+        ("刷题模式", "搜题模式")
+    )
+    if choice_mode == "刷题模式":
+        if choice_selectbox == "计算机网络":
+            add_selectbox = st.sidebar.selectbox(
+                "请选择复习的章节",
+                ("第{0}章".format(i) for i in range(1, 10)),index=st.session_state['reviewContent']['chapter']
+            )
+        st.sidebar.write('')
+        st.sidebar.write('')
+        st.sidebar.write('')
+        st.sidebar.button("確定")
+        nowChapter = ''.join(filter(str.isdigit, add_selectbox))
+        data = readJsonJw(count=nowChapter)
+        if st.session_state['reviewContent']['chapter'] != int(nowChapter) - 1:
+            st.session_state['pageNum'] = 1
+            st.session_state['reviewContent']['chapter'] = int(nowChapter) - 1
             st.session_state['reviewContent']['searchStatus'] = False
-    with col3:
-        if st.button('下一题', key='next'):
-            st.session_state['pageNum'] += 1
-            if st.session_state['pageNum'] > nowTotal:
-                st.session_state['pageNum'] = nowTotal
-            st.session_state['answerStatus'] = 3
-            st.session_state['reviewContent']['searchStatus']  = False
-    with col2:
-        st.write(nowTotal, ":", st.session_state['pageNum'])
-        # if st.button('提交', key='commit'):
-        #     st.session_state['answerStatus'] = True
+        nowTotal = len(data.get("data", {}).get("questions", []))
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            if st.button('上一题'):
+                st.session_state['pageNum'] -= 1
+                if st.session_state['pageNum'] < 1:
+                    st.session_state['pageNum'] = 1
+                st.session_state['answerStatus'] = 3
+                st.session_state['reviewContent']['searchStatus'] = False
+        with col3:
+            if st.button('下一题', key='next'):
+                st.session_state['pageNum'] += 1
+                if st.session_state['pageNum'] > nowTotal:
+                    st.session_state['pageNum'] = nowTotal
+                st.session_state['answerStatus'] = 3
+                st.session_state['reviewContent']['searchStatus']  = False
+        with col2:
+            st.write(nowTotal, ":", st.session_state['pageNum'])
+            # if st.button('提交', key='commit'):
+            #     st.session_state['answerStatus'] = True
 
-    submit = False
-    i = 1
-    for item in data.get("data", {}).get("questions", []):
-        if i == st.session_state['pageNum']:
-            answer = None
-            with st.form(key='form' + str(i)):
-                if item.get("type_text") == '判断题':
-                    genre = st.radio(
-                        # st.write(item.get("question"),unsafe_allow_html=True),
-                        BeautifulSoup(item.get("question"), "lxml").text,
-                        tuple(
-                            ('√' if key == 'A' else '×') + ". " + value for key, value in item.get("options").items()),
-                    )
-                    if genre[0] == '√':
-                        answer = 'A'
+        submit = False
+        i = 1
+        for item in data.get("data", {}).get("questions", []):
+            if i == st.session_state['pageNum']:
+                answer = None
+                with st.form(key='form' + str(i)):
+                    if item.get("type_text") == '判断题':
+                        genre = st.radio(
+                            # st.write(item.get("question"),unsafe_allow_html=True),
+                            BeautifulSoup(item.get("question"), "lxml").text,
+                            tuple(
+                                ('√' if key == 'A' else '×') + ". " + value for key, value in item.get("options").items()),
+                        )
+                        if genre[0] == '√':
+                            answer = 'A'
+                        else:
+                            answer = 'B'
                     else:
-                        answer = 'B'
+                        genre = st.radio(
+                            # st.write(item.get("question"),unsafe_allow_html=True),
+                            BeautifulSoup(item.get("question"), "lxml").text,
+                            tuple(key + ". " + BeautifulSoup(value, 'lxml').text for key, value in
+                                  item.get("options").items()),
+                        )
+                        answer = genre[0]
+                    # # Every form must have a submit button.
+                    submitted = st.form_submit_button("提交")
+                    if submitted:
+                        submit = True
+                if answer == item.get('answer')[0]:
+                    st.session_state['answerStatus'] = 1
                 else:
-                    genre = st.radio(
-                        # st.write(item.get("question"),unsafe_allow_html=True),
-                        BeautifulSoup(item.get("question"), "lxml").text,
-                        tuple(key + ". " + BeautifulSoup(value, 'lxml').text for key, value in
-                              item.get("options").items()),
-                    )
-                    answer = genre[0]
-                # # Every form must have a submit button.
-                submitted = st.form_submit_button("提交")
-                if submitted:
-                    submit = True
-            if answer == item.get('answer')[0]:
-                st.session_state['answerStatus'] = 1
-            else:
-                if answer and submit:
-                    st.session_state['answerStatus'] = 0
-            break
-        i = i + 1
-    # print("内容:", st.session_state['answerStatus'])
-    if st.session_state['answerStatus'] == 1 and (submit or st.session_state['reviewContent']['searchStatus']):
-        st.success("答案正确")
-    elif st.session_state['answerStatus'] == 0 and (submit or st.session_state['reviewContent']['searchStatus']):
-        st.error("答案错误")
-    isClick = False
-    searchContent = ''
-    # with st.empty():
-    #     st.write(f"⏳ ")
-    def changeStatusSearch():
-        st.session_state['reviewContent']['searchStatus'] = False
+                    if answer and submit:
+                        st.session_state['answerStatus'] = 0
+                break
+            i = i + 1
+        # print("内容:", st.session_state['answerStatus'])
+        if st.session_state['answerStatus'] == 1 and (submit or st.session_state['reviewContent']['searchStatus']):
+            st.success("答案正确")
+        elif st.session_state['answerStatus'] == 0 and (submit or st.session_state['reviewContent']['searchStatus']):
+            st.error("答案错误")
+        isClick = False
+        searchContent = ''
+        # with st.empty():
+        #     st.write(f"⏳ ")
+        def changeStatusSearch():
+            st.session_state['reviewContent']['searchStatus'] = False
 
-    col4,col5 = st.columns(2)
+        col4,col5 = st.columns(2)
 
-    with col4:
-        searchContent = st.text_input(label=f"⏳ Search ^v^~",value='IP 协议',help="查询字符串之间使用\"空格\"可以过滤查询到的数据", on_change=changeStatusSearch)
+        with col4:
+            searchContent = st.text_input(label=f"⏳ Search ^v^~",value='IP 协议',help="查询字符串之间使用\"空格\"可以过滤查询到的数据", on_change=changeStatusSearch)
 
-    with col5:
-        st.write('   ‍')
+        with col5:
+            st.write('   ‍')
 
-        if st.button('Search'):
-            isClick = True
-            st.session_state['reviewContent']['searchStatus'] = True
-        st.text(' ')
+            if st.button('Search'):
+                isClick = True
+                st.session_state['reviewContent']['searchStatus'] = True
+            st.text(' ')
 
-    if isClick or st.session_state['reviewContent']['searchStatus']:
-        options = st.multiselect(
-            '请选择要参考的PDF',
-            ['计算机网络（第7版）', '计算机网络谢希仁第七版配套课后答案'],
-            st.session_state['reviewContent']['choiceTxt'])
+        if isClick or st.session_state['reviewContent']['searchStatus']:
+            options = st.multiselect(
+                '请选择要参考的PDF',
+                ['计算机网络（第7版）', '计算机网络谢希仁第七版配套课后答案'],
+                st.session_state['reviewContent']['choiceTxt'])
 
-        # st.write('You selected:', options)
-        st.session_state['reviewContent']['choiceTxt'] = options
-        for searchC in options:
-            # print(searchC, getFileOrDirPath("txt/" + searchC + ".txt"))
-            searchResult = pdfAnswers(getFileOrDirPath("txt/" + searchC + ".txt"), searchContent)
-            # searchResult
-            st.warning(searchC)
-            # st.table(pd.DataFrame({
-            #     '待选答案':searchResult
-            # }))
-            content = """"""
-            for num, line in enumerate(searchResult,start=1):
-                content += """<tr><td>"""  + str(num) + """</td><td>""" + line + """</td></tr>"""
-            st.markdown("""
-                        <table>
-                    <tr>
-                        <th></th>
-                        <th>待选答案</th>
-                    </tr>
-                    """ + content + """
-                </table>
-                """, unsafe_allow_html=True)
-            st.write("")
+            # st.write('You selected:', options)
+            st.session_state['reviewContent']['choiceTxt'] = options
+            for searchC in options:
+                # print(searchC, getFileOrDirPath("txt/" + searchC + ".txt"))
+                searchResult = pdfAnswers(getFileOrDirPath("txt/" + searchC + ".txt"), searchContent)
+                # searchResult
+                st.warning(searchC)
+                # st.table(pd.DataFrame({
+                #     '待选答案':searchResult
+                # }))
+                content = """"""
+                for num, line in enumerate(searchResult,start=1):
+                    content += """<tr><td>"""  + str(num) + """</td><td>""" + line + """</td></tr>"""
+                st.markdown("""
+                            <table>
+                        <tr>
+                            <th></th>
+                            <th>待选答案</th>
+                        </tr>
+                        """ + content + """
+                    </table>
+                    """, unsafe_allow_html=True)
+                st.write("")
+    elif choice_mode == '搜题模式':
+        # st.markdown('🔎 请搜索题目 / Search~🌈')
+        answer = st.text_input(label='🔎 请搜索题目 / Search~🌈', value='RIP')
+        questions, answers = getAnswer(answer)
+        st.table(pd.DataFrame({
+            "题目": questions,
+            "答案": answers,
+        }))

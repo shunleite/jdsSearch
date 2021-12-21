@@ -7,6 +7,7 @@
 @IDE ：PyCharm
 
 """
+import json
 import os
 import re
 
@@ -71,14 +72,33 @@ def parse(pdf_path, result_path):
                     fw = open(result_path, 'a', encoding="utf-8")
                     fw.write(out.get_text())
 
+def getFileOrDirPath(name):
+    return os.path.join(os.path.dirname(__file__), name)
 
+def getFileList(path):
+    return os.listdir(getFileOrDirPath(path))
 
+def getQuersionDict():
+    questionDict = {}
+    for i in getFileList("jw"):
+        sjson = ''
+        with open(getFileOrDirPath("jw/" + i), mode="r", encoding="utf-8") as f:
+            temp = json.load(f)
+            questionDict[i.split('.')[0]] = temp['data']['questions']
+    #      = json.loads(sjson)
+    with open(getFileOrDirPath("data/jw.json"), "w+", encoding="utf-8") as fp:
+        json.dump(questionDict, fp,ensure_ascii=False)
+# def search
 
 if __name__ == '__main__':
-    pdf_path = os.path.join(os.path.dirname(__file__), 'txt/计算机网络谢希仁第七版配套课后答案.pdf')
-    result_path = os.path.join(os.path.dirname(__file__), 'txt/计算机网络谢希仁第七版配套课后答案.txt')
+    s = getQuersionDict()
+    print(s)
+    # pdf_path = os.path.join(os.path.dirname(__file__), 'txt/计算机网络谢希仁第七版配套课后答案.pdf')
+    # result_path = os.path.join(os.path.dirname(__file__), 'txt/计算机网络谢希仁第七版配套课后答案.txt')
+    #
+    # parse(pdf_path,result_path)
 
-    parse(pdf_path,result_path)
+
     # text = []
     # with open(r"txt/计算机网络（第7版）.txt", "r+", encoding="utf-8") as f:
     #     text = f.readlines()
@@ -88,4 +108,7 @@ if __name__ == '__main__':
     #     if all(i in line for i in searchStr):
     #         searTable.append(line.strip())
     # print(searTable)
+
+
+
 
