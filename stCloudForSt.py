@@ -86,9 +86,11 @@ def pdfAnswers(path:str,searchStr:str) -> list:
     searTable = []
     for line in text:
         if all(i in line for i in searchStr):
+            line = line.replace(">"," > ")
+            line = line.replace("<"," < ")
             for name in searchStr:
                 line = line.replace(name,
-                             "<div style='background-color: rgba(0, 135, 107, 0.2); padding: 1px 6px; margin: 0px 5px; display: inline; vertical-align: middle; border-radius: 3px; font-size: 0.75rem; font-weight: 400;'>" +
+                             "<div style=\"background-color: rgba(0, 135, 107, 0.2); padding: 1px 6px; margin: 0px 5px; display: inline; vertical-align: middle; border-radius: 3px; font-size: 0.75rem; font-weight: 400;\">" +
                              name + "</div>")
             searTable.append(line.strip())
     return searTable
