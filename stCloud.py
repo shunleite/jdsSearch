@@ -43,7 +43,7 @@ def jdsMain():
     content = st.text_input('问题', '运动')
     choice_type = st.selectbox(
         "请选择搜题模式",
-        ("本地模式", "第三方云搜"),help="第三方云搜题支持\"空格\"分词筛选,如\"曾国藩 李鸿章\""
+        ("本地模式", "第三方云搜"),help="第三方云搜题支持分词搜索（所以问题关键词要尽量写全）"
     )
     if choice_type == '本地模式':
         questions,answers = searchContent(data=tiku,choice=option, content=content)
