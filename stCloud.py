@@ -15,6 +15,8 @@ import json
 import re
 import os
 
+from tools.utils import searchAnswer
+
 
 @st.experimental_singleton
 def readJson():
@@ -39,8 +41,18 @@ def jdsMain():
         '请选择题模式',
         ('单选题', '多选题'))
     content = st.text_input('问题', '运动')
-    st.success("查询成功！")
-    questions,answers = searchContent(data=tiku,choice=option, content=content)
+    choice_type = st.selectbox(
+        "请选择搜题模式",
+        ("本地模式", "第三方云搜"),help="第三方云搜题支持\"空格\"分词筛选,如\"曾国藩 李鸿章\""
+    )
+    if choice_type == '本地模式':
+        questions,answers = searchContent(data=tiku,choice=option, content=content)
+    elif choice_type == '第三方云搜':
+        questions, answers = searchAnswer(content)
+    if questions and answers:
+        st.success("查询成功! ")
+    else:
+        st.error("查询失败! ")
     st.table(pd.DataFrame({
         '问题': questions,
         '答案': answers

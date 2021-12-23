@@ -19,6 +19,7 @@ import pandas as pd
 import streamlit as st
 
 from stCloud import jdsMain
+from tools.utils import searchAnswer
 
 
 def getFileOrDirPath(name):
@@ -301,7 +302,14 @@ if __name__ == "__main__":
         # st.markdown('🔎 请搜索题目 / Search~🌈')
         if choice_selectbox == '计算机网络':
             answer = st.text_input(label='🔎 请搜索题目 / Search~🌈', value='RIP')
-            questions, answers = getAnswer(answer)
+            choice_type = st.selectbox(
+                "请选择搜题模式",
+                ("本地模式", "第三方云搜"),help="第三方云搜题支持\"空格\"分词筛选,如\"曾国藩 李鸿章\""
+            )
+            if choice_type == '本地模式':
+                questions, answers = getAnswer(answer)
+            elif choice_type == '第三方云搜':
+                questions, answers = searchAnswer(answer)
             st.table(pd.DataFrame({
                 "题目": questions,
                 "答案": answers,
