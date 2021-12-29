@@ -56,7 +56,7 @@ def searchAnswer(question,useProxy=False):
     try:
         response = requests.request("GET", url, headers=headers, proxies=proxies,timeout=5,verify=False)
         # print(response.text,url)
-        tempDict = json.loads(response.text.strip().replace("\n",""))
+        tempDict = json.loads(response.text.strip().replace("\n",""), encoding='utf-8')
         # print(tempDict)
         if not tempDict.get("data"):
             if not useProxy:
