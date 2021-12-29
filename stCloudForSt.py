@@ -306,10 +306,16 @@ if __name__ == "__main__":
                 "请选择搜题模式",
                 ("本地模式", "第三方云搜"),help="第三方云搜题支持分词搜索（所以问题关键词要尽量写全）"
             )
+            questions, answers = [], []
             if choice_type == '本地模式':
                 questions, answers = getAnswer(answer)
             elif choice_type == '第三方云搜':
                 questions, answers = searchAnswer(answer)
+            if questions and answers:
+                st.success("查询成功! ")
+            else:
+                st.error("查询失败! ")
+                st.info("可以使用第三方云搜试试~")
             st.table(pd.DataFrame({
                 "题目": questions,
                 "答案": answers,

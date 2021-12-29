@@ -53,6 +53,7 @@ def jdsMain():
         st.success("查询成功! ")
     else:
         st.error("查询失败! ")
+        st.info("可以使用第三方云搜试试~")
     st.table(pd.DataFrame({
         '问题': questions,
         '答案': answers

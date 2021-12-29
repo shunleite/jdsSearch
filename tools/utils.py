@@ -36,7 +36,8 @@ def searchAnswer(question,useProxy=False):
     questionStr = ''
     for i in question:
         questionStr += quote(i) + "&"
-    url = "http://imnu.52king.cn/api/wk/index.php?c=" + questionStr
+    # url = "http://imnu.52king.cn/api/wk/index.php?c=" + questionStr
+    url = "https://study.jszkk.com/api/open/seek?q=" + questionStr
     proxies = {}
     if useProxy:
         proxys = getProxys()
@@ -53,18 +54,18 @@ def searchAnswer(question,useProxy=False):
 
     }
     try:
-        response = requests.request("GET", url, headers=headers, proxies=proxies,timeout=5)
-        print(response.text,url)
+        response = requests.request("GET", url, headers=headers, proxies=proxies,timeout=5,verify=False)
+        # print(response.text,url)
         tempDict = json.loads(response.text.strip().replace("\n",""))
-        if not tempDict.get("title"):
+        # print(tempDict)
+        if not tempDict.get("data"):
             if not useProxy:
                 searchAnswer(question, useProxy=True)
             return ["查找失败请重新尝试"], ["查找失败请重新尝试"]
-        return [tempDict.get("title").strip()], [tempDict.get("answer", "答案获取失败").strip()]
+        return [tempDict.get("data").get("content").strip()], [tempDict.get("data").get("answer", "答案获取失败").strip()]
     except IndexError as e:
         if not useProxy:
             searchAnswer(question, useProxy=True)
-        return ["查找失败请重新尝试"], ["查找失败请重新尝试"]
 
 if __name__ == "__main__":
     print(searchAnswer('近代史'))
