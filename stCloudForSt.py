@@ -101,7 +101,7 @@ def pdfAnswers(path:str,searchStr:str) -> list:
 
 @st.cache
 def getPdfTxtDict(name):
-    dicts = {'计算机网络':['计算机网络（第7版）','计算机网络谢希仁第七版配套课后答案'],'近代史':[]}
+    dicts = {'计算机网络':['计算机网络（第7版）','计算机网络谢希仁第七版配套课后答案', '计算机网络第8版课件'],'近代史':[]}
     return dicts.get(name,[])
 
 @st.cache
@@ -255,7 +255,7 @@ if __name__ == "__main__":
             if isClick or st.session_state['reviewContent']['searchStatus']:
                 options = st.multiselect(
                     '请选择要参考的PDF',
-                    ['计算机网络（第7版）', '计算机网络谢希仁第七版配套课后答案'],
+                    ['计算机网络（第7版）', '计算机网络谢希仁第七版配套课后答案', '计算机网络第8版课件'],
                     st.session_state['reviewContent']['choiceTxt'])
 
                 # st.write('You selected:', options)
