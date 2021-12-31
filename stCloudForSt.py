@@ -126,16 +126,18 @@ def getAnswer(name):
                 answers.append(answer)
     return questions, answers
 
+
 if __name__ == "__main__":
     st.set_page_config(page_title='刷题系统单页', menu_items={
         'Report a bug': "http://wpa.qq.com/msgrd?v=3&uin=83118937&site=qq&menu=yes",
         'About': "# 测试项目,近代史答案"
     })
-    if 'pageNum' not in st.session_state:
+    # st.write(get_cookie_json("顺子"))
+    if 'pageNum' not in st.session_state.keys():
         st.session_state['pageNum'] = 1
-    if 'answerStatus' not in st.session_state:
+    if 'answerStatus' not in st.session_state.keys():
         st.session_state['answerStatus'] = 3
-    if 'reviewContent' not in st.session_state:
+    if 'reviewContent' not in st.session_state.keys():
         st.session_state['reviewContent'] = {'content': '计算机网络', 'chapter': 0,'searchStatus':False}
     if not st.session_state['reviewContent'].get('choiceTxt'):
         st.session_state['reviewContent']['choiceTxt'] =  getPdfTxtDict(st.session_state['reviewContent']['content'])
@@ -147,7 +149,7 @@ if __name__ == "__main__":
     """)
     choice_selectbox = st.sidebar.selectbox(
         "请选择要复习的内容",
-        ("计算机网络", "近代史")
+        ("计算机网络", "近代史"),index=["计算机网络", "近代史"].index(st.session_state['reviewContent']['content']) if st.session_state['reviewContent']['content'] else 0
     )
     st.session_state['reviewContent']['content'] = choice_selectbox
     choice_mode = st.sidebar.selectbox(
@@ -160,9 +162,11 @@ if __name__ == "__main__":
                 "请选择复习的章节",
                 ("第{0}章".format(i) for i in range(1, 10)),index=st.session_state['reviewContent']['chapter']
             )
-            st.sidebar.write('')
-            st.sidebar.write('')
-            st.sidebar.write('')
+            # st.sidebar.write('')
+            # st.sidebar.write('')
+            number_number = st.sidebar.number_input('跳转题数（防跳转）',value=st.session_state['pageNum'])
+            st.session_state['pageNum'] = number_number
+            # st.sidebar.write('')
             st.sidebar.button("確定")
             nowChapter = ''.join(filter(str.isdigit, add_selectbox))
             data = readJsonJw(count=nowChapter)
