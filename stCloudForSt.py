@@ -20,13 +20,13 @@ import streamlit as st
 
 from stCloud import jdsMain
 from tools.utils import searchAnswer
-
+from streamlit.report_thread import get_report_ctx
 
 def getFileOrDirPath(name):
     return os.path.join(os.path.dirname(__file__), name)
 
 
-@st.cache
+@st.cache(ttl=3600)
 def readJsonJw(count='1'):
     # for item in os.listdir(getFileOrDirPath("jw")):
     choice_selectbox = {0: 'A',1: 'B', 2 :'C', 3: 'D' }
@@ -132,6 +132,8 @@ if __name__ == "__main__":
         'Report a bug': "http://wpa.qq.com/msgrd?v=3&uin=83118937&site=qq&menu=yes",
         'About': "# 测试项目,近代史答案"
     })
+    ctx = get_report_ctx()
+    print(ctx.session_id)
     # st.write(get_cookie_json("顺子"))
     if 'pageNum' not in st.session_state.keys():
         st.session_state['pageNum'] = 1
